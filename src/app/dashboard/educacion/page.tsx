@@ -179,6 +179,7 @@ const IconTrash = () => (
 // ===============================================================
 // TIPOS (TYPESCRIPT)
 // ===============================================================
+// Tipo para los expedientes
 type Expediente = {
   id: string;
   nombre_completo: string;
