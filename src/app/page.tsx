@@ -1,24 +1,30 @@
-'use client';
+"use client";
 
-import { useState } from 'react';
-import { useRouter } from 'next/navigation';
-import Link from 'next/link';
-import { Button } from '@/components/ui/button';
-import { Input } from '@/components/ui/input';
-import { Label } from '@/components/ui/label';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
-import { Building } from 'lucide-react';
-import { Separator } from '@/components/ui/separator';
+import { useState } from "react";
+import { useRouter } from "next/navigation";
+import Link from "next/link";
+import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
+import { Label } from "@/components/ui/label";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
+import { Building } from "lucide-react";
+import { Separator } from "@/components/ui/separator";
 
 export default function Home() {
   const router = useRouter();
-  const [username, setUsername] = useState('');
-  const [password, setPassword] = useState('');
+  const [username, setUsername] = useState("");
+  const [password, setPassword] = useState("");
 
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
     // No validation, just redirect for now
-    router.push('/dashboard');
+    router.push("/dashboard");
   };
 
   return (
@@ -29,7 +35,9 @@ export default function Home() {
             <Building className="h-12 w-12 text-primary" />
           </div>
           <CardTitle className="text-2xl">INAMI</CardTitle>
-          <CardDescription>Bienvenido de nuevo. Inicia sesión en tu cuenta.</CardDescription>
+          <CardDescription>
+            Bienvenido de nuevo. Inicia sesión en tu cuenta.
+          </CardDescription>
         </CardHeader>
         <CardContent>
           <form onSubmit={handleLogin} className="space-y-4">
@@ -59,15 +67,18 @@ export default function Home() {
               Iniciar Sesión
             </Button>
           </form>
-           <Separator className="my-4" />
-           <div className="flex flex-col space-y-2 text-center text-sm">
-             <Link href="/developer/dashboard" className="text-primary hover:underline">
-                Ir al Panel de Admin
-              </Link>
-              <Link href="/dashboard" className="text-primary hover:underline">
-                Ir al Panel de Usuario
-              </Link>
-           </div>
+          <Separator className="my-4" />
+          <div className="flex flex-col space-y-2 text-center text-sm">
+            <Link
+              href="/developer/dashboard"
+              className="text-primary hover:underline"
+            >
+              Ir al Panel de Admin
+            </Link>
+            <Link href="/dashboard" className="text-primary hover:underline">
+              Ir al Panel de Usuario
+            </Link>
+          </div>
         </CardContent>
       </Card>
     </main>
