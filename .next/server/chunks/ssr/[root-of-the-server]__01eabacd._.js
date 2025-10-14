@@ -75,7 +75,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react.js [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$supabase$2f$client$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/lib/supabase/client.ts [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$hooks$2f$use$2d$toast$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/hooks/use-toast.ts [app-ssr] (ecmascript)");
-'use client'; // Directiva necesaria en Next.js App Router para componentes con interactividad
+"use client"; // Directiva necesaria en Next.js App Router para componentes con interactividad
 ;
 ;
 ;
@@ -94,13 +94,13 @@ const IconPlus = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$projec
             clipRule: "evenodd"
         }, void 0, false, {
             fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-            lineNumber: 10,
-            columnNumber: 124
+            lineNumber: 17,
+            columnNumber: 5
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 10,
-        columnNumber: 24
+        lineNumber: 11,
+        columnNumber: 3
     }, this);
 const IconArrowRight = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
         xmlns: "http://www.w3.org/2000/svg",
@@ -113,13 +113,13 @@ const IconArrowRight = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$
             clipRule: "evenodd"
         }, void 0, false, {
             fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-            lineNumber: 11,
-            columnNumber: 130
+            lineNumber: 31,
+            columnNumber: 5
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 11,
-        columnNumber: 30
+        lineNumber: 25,
+        columnNumber: 3
     }, this);
 const IconArrowLeft = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
         xmlns: "http://www.w3.org/2000/svg",
@@ -132,13 +132,13 @@ const IconArrowLeft = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$p
             clipRule: "evenodd"
         }, void 0, false, {
             fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-            lineNumber: 12,
-            columnNumber: 129
+            lineNumber: 45,
+            columnNumber: 5
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 12,
-        columnNumber: 29
+        lineNumber: 39,
+        columnNumber: 3
     }, this);
 const IconQuestionCircle = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
         xmlns: "http://www.w3.org/2000/svg",
@@ -153,13 +153,13 @@ const IconQuestionCircle = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__
             d: "M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.546-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
         }, void 0, false, {
             fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-            lineNumber: 13,
-            columnNumber: 148
+            lineNumber: 60,
+            columnNumber: 5
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 13,
-        columnNumber: 34
+        lineNumber: 53,
+        columnNumber: 3
     }, this);
 const IconFileSignature = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
         xmlns: "http://www.w3.org/2000/svg",
@@ -174,13 +174,13 @@ const IconFileSignature = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$
             d: "M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
         }, void 0, false, {
             fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-            lineNumber: 14,
-            columnNumber: 147
+            lineNumber: 76,
+            columnNumber: 5
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 14,
-        columnNumber: 33
+        lineNumber: 69,
+        columnNumber: 3
     }, this);
 const IconChalkboardTeacher = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
         xmlns: "http://www.w3.org/2000/svg",
@@ -195,13 +195,13 @@ const IconChalkboardTeacher = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__modul
             d: "M16 4v12l-4-2-4 2V4M6 20h12M6 4h12v12H6z"
         }, void 0, false, {
             fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-            lineNumber: 15,
-            columnNumber: 151
+            lineNumber: 92,
+            columnNumber: 5
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 15,
-        columnNumber: 37
+        lineNumber: 85,
+        columnNumber: 3
     }, this);
 const IconChartLine = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
         xmlns: "http://www.w3.org/2000/svg",
@@ -216,13 +216,13 @@ const IconChartLine = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$p
             d: "M16 8v8m-4-5v5m-4-2v2m-2 4h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
         }, void 0, false, {
             fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-            lineNumber: 16,
-            columnNumber: 143
+            lineNumber: 108,
+            columnNumber: 5
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 16,
-        columnNumber: 29
+        lineNumber: 101,
+        columnNumber: 3
     }, this);
 const IconFlagCheckered = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
         xmlns: "http://www.w3.org/2000/svg",
@@ -237,13 +237,13 @@ const IconFlagCheckered = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$
             d: "M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1v12zM4 15v6m0-6H2m2 0h2"
         }, void 0, false, {
             fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-            lineNumber: 17,
-            columnNumber: 147
+            lineNumber: 124,
+            columnNumber: 5
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 17,
-        columnNumber: 33
+        lineNumber: 117,
+        columnNumber: 3
     }, this);
 const IconFileInvoice = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
         xmlns: "http://www.w3.org/2000/svg",
@@ -258,13 +258,13 @@ const IconFileInvoice = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b
             d: "M17 9v-2a2 2 0 00-2-2H9a2 2 0 00-2 2v2m10 0a2 2 0 012 2v6a2 2 0 01-2 2H7a2 2 0 01-2-2v-6a2 2 0 012-2m10 0H7"
         }, void 0, false, {
             fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-            lineNumber: 18,
-            columnNumber: 145
+            lineNumber: 140,
+            columnNumber: 5
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 18,
-        columnNumber: 31
+        lineNumber: 133,
+        columnNumber: 3
     }, this);
 const IconStarOfLife = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
         xmlns: "http://www.w3.org/2000/svg",
@@ -279,13 +279,13 @@ const IconStarOfLife = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$
             d: "M12 11.25l-3.25 6.25-6.25-3.25L8.75 12 2.5 8.75l6.25-3.25L12 11.25zM12 11.25l3.25-6.25 6.25 3.25L15.25 12l6.25 3.25-6.25 3.25L12 11.25z"
         }, void 0, false, {
             fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-            lineNumber: 19,
-            columnNumber: 144
+            lineNumber: 156,
+            columnNumber: 5
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 19,
-        columnNumber: 30
+        lineNumber: 149,
+        columnNumber: 3
     }, this);
 const IconTrash = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
         xmlns: "http://www.w3.org/2000/svg",
@@ -298,63 +298,63 @@ const IconTrash = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$proje
             clipRule: "evenodd"
         }, void 0, false, {
             fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-            lineNumber: 20,
-            columnNumber: 125
+            lineNumber: 171,
+            columnNumber: 5
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 20,
-        columnNumber: 25
+        lineNumber: 165,
+        columnNumber: 3
     }, this);
 // ===============================================================
 // DATOS CONSTANTES
 // ===============================================================
 const allForms = [
     {
-        id: 'form-entrevista-inicial',
-        title: '1. Entrevista Inicial Educativa',
+        id: "form-entrevista-inicial",
+        title: "1. Entrevista Inicial Educativa",
         icon: IconQuestionCircle,
-        tableName: 'entrevistas_iniciales_educacion'
+        tableName: "entrevistas_iniciales_educacion"
     },
     {
-        id: 'form-informe-inicial',
-        title: '2. Informe Inicial Educativo',
+        id: "form-informe-inicial",
+        title: "2. Informe Inicial Educativo",
         icon: IconFileSignature,
-        tableName: 'informes_iniciales_educacion'
+        tableName: "informes_iniciales_educacion"
     },
     {
-        id: 'form-entrevista-seguimiento',
-        title: '3. Entrevista de Seguimiento',
+        id: "form-entrevista-seguimiento",
+        title: "3. Entrevista de Seguimiento",
         icon: IconChalkboardTeacher,
-        tableName: 'entrevistas_seguimiento_educacion'
+        tableName: "entrevistas_seguimiento_educacion"
     },
     {
-        id: 'form-informe-seguimiento',
-        title: '4. Informe de Seguimiento',
+        id: "form-informe-seguimiento",
+        title: "4. Informe de Seguimiento",
         icon: IconChartLine,
-        tableName: 'informes_seguimiento_educacion'
+        tableName: "informes_seguimiento_educacion"
     },
     {
-        id: 'form-entrevista-cierre',
-        title: '5. Entrevista de Cierre',
+        id: "form-entrevista-cierre",
+        title: "5. Entrevista de Cierre",
         icon: IconFlagCheckered,
-        tableName: ''
+        tableName: ""
     },
     {
-        id: 'form-informe-cierre',
-        title: '6. Informe de Cierre',
+        id: "form-informe-cierre",
+        title: "6. Informe de Cierre",
         icon: IconFileInvoice,
-        tableName: 'informes_cierre_educacion'
+        tableName: "informes_cierre_educacion"
     },
     {
-        id: 'form-informe-especial',
-        title: '7. Informe Especial',
+        id: "form-informe-especial",
+        title: "7. Informe Especial",
         icon: IconStarOfLife,
-        tableName: 'informes_especiales_educacion'
+        tableName: "informes_especiales_educacion"
     }
 ];
 function ModuloEducacionPage() {
-    const [currentView, setCurrentView] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])('dashboard');
+    const [currentView, setCurrentView] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])("dashboard");
     const [expedientes, setExpedientes] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])([]);
     const [selectedExpediente, setSelectedExpediente] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(null);
     const [selectedForm, setSelectedForm] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(null);
@@ -363,13 +363,13 @@ function ModuloEducacionPage() {
     (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useEffect"])(()=>{
         const fetchExpedientes = async ()=>{
             setIsLoading(true);
-            const { data, error } = await supabase.from('expedientes_educacion').select('*');
+            const { data, error } = await supabase.from("expedientes_educacion").select("*");
             if (error) {
-                console.error('Error fetching expedientes:', error);
+                console.error("Error fetching expedientes:", error);
                 (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$hooks$2f$use$2d$toast$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["toast"])({
-                    title: 'Error al cargar expedientes',
+                    title: "Error al cargar expedientes",
                     description: error.message,
-                    variant: 'destructive'
+                    variant: "destructive"
                 });
                 setExpedientes([]);
             } else {
@@ -381,42 +381,42 @@ function ModuloEducacionPage() {
     }, []);
     const handleSelectExpediente = (expediente)=>{
         setSelectedExpediente(expediente);
-        setCurrentView('case');
+        setCurrentView("case");
     };
     const handleSelectForm = (formInfo)=>{
         if (!formInfo.tableName) {
             (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$hooks$2f$use$2d$toast$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["toast"])({
-                title: 'Formulario no disponible',
-                description: 'Este formulario aún no tiene una tabla de base de datos asociada.',
-                variant: 'destructive'
+                title: "Formulario no disponible",
+                description: "Este formulario aún no tiene una tabla de base de datos asociada.",
+                variant: "destructive"
             });
             return;
         }
         setSelectedForm(formInfo);
-        setCurrentView('form');
+        setCurrentView("form");
     };
     const handleCreateNew = ()=>{
         setSelectedExpediente(null);
         handleSelectForm(allForms[0]);
     };
     const navigateBack = ()=>{
-        if (currentView === 'form') {
-            setCurrentView(selectedExpediente ? 'case' : 'dashboard');
-        } else if (currentView === 'case') {
-            setCurrentView('dashboard');
+        if (currentView === "form") {
+            setCurrentView(selectedExpediente ? "case" : "dashboard");
+        } else if (currentView === "case") {
+            setCurrentView("dashboard");
         }
     };
     const handleSaveForm = async (formData)=>{
         if (!selectedForm) return;
         (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$hooks$2f$use$2d$toast$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["toast"])({
-            title: 'Guardando datos...',
-            description: 'Por favor espera.'
+            title: "Guardando datos...",
+            description: "Por favor espera."
         });
         try {
             // Caso 1: Creando un nuevo expediente.
-            if (selectedForm.id === 'form-entrevista-inicial') {
+            if (selectedForm.id === "form-entrevista-inicial") {
                 // Primero, crea el registro en la tabla principal `expedientes_educacion`
-                const { data: newExpediente, error: expedienteError } = await supabase.from('expedientes_educacion').insert({
+                const { data: newExpediente, error: expedienteError } = await supabase.from("expedientes_educacion").insert({
                     nombre_completo: formData.nombre_completo,
                     expediente_administrativo: formData.expediente_administrativo
                 }).select().single();
@@ -434,8 +434,9 @@ function ModuloEducacionPage() {
                         newExpediente
                     ]);
             } else {
+                // Caso 2: Guardando un formulario para un expediente existente.
                 if (!selectedExpediente) {
-                    throw new Error("Se necesita seleccionar un expediente para guardar este formulario.");
+                    throw new Error("necesita seleccionar un expediente para guardar este formulario.");
                 }
                 const dataToSave = {
                     ...formData,
@@ -445,32 +446,32 @@ function ModuloEducacionPage() {
                 if (error) throw error;
             }
             (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$hooks$2f$use$2d$toast$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["toast"])({
-                title: '¡Éxito!',
-                description: 'Los datos del formulario se han guardado correctamente.'
+                title: "¡Éxito!",
+                description: "Los datos del formulario se han guardado correctamente."
             });
             navigateBack();
         } catch (error) {
             (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$hooks$2f$use$2d$toast$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["toast"])({
-                title: 'Error al guardar',
+                title: "Error al guardar",
                 description: `Error: ${error.message}`,
-                variant: 'destructive'
+                variant: "destructive"
             });
-            console.error('Error saving form data:', error);
+            console.error("Error saving form data:", error);
         }
     };
     const renderContent = ()=>{
         switch(currentView){
-            case 'case':
+            case "case":
                 return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(CaseView, {
                     expediente: selectedExpediente,
                     onSelectForm: handleSelectForm,
                     onBack: navigateBack
                 }, void 0, false, {
                     fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                    lineNumber: 189,
-                    columnNumber: 24
+                    lineNumber: 392,
+                    columnNumber: 11
                 }, this);
-            case 'form':
+            case "form":
                 return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormView, {
                     formInfo: selectedForm,
                     expediente: selectedExpediente,
@@ -478,8 +479,8 @@ function ModuloEducacionPage() {
                     onBack: navigateBack
                 }, void 0, false, {
                     fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                    lineNumber: 191,
-                    columnNumber: 24
+                    lineNumber: 400,
+                    columnNumber: 11
                 }, this);
             default:
                 return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DashboardView, {
@@ -489,8 +490,8 @@ function ModuloEducacionPage() {
                     isLoading: isLoading
                 }, void 0, false, {
                     fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                    lineNumber: 193,
-                    columnNumber: 24
+                    lineNumber: 409,
+                    columnNumber: 11
                 }, this);
         }
     };
@@ -499,8 +500,8 @@ function ModuloEducacionPage() {
         children: renderContent()
     }, void 0, false, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 197,
-        columnNumber: 12
+        lineNumber: 419,
+        columnNumber: 10
     }, this);
 }
 // ... (El resto de los componentes de UI se mantienen igual)
@@ -518,8 +519,8 @@ function DashboardView({ expedientes, onSelectExpediente, onCreateNew, isLoading
                         children: "Módulo de Gestión Educativa"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 212,
-                        columnNumber: 17
+                        lineNumber: 442,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                         onClick: onCreateNew,
@@ -527,8 +528,8 @@ function DashboardView({ expedientes, onSelectExpediente, onCreateNew, isLoading
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(IconPlus, {}, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 214,
-                                columnNumber: 21
+                                lineNumber: 449,
+                                columnNumber: 11
                             }, this),
                             " ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -536,20 +537,20 @@ function DashboardView({ expedientes, onSelectExpediente, onCreateNew, isLoading
                                 children: "Crear Nuevo Expediente"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 214,
-                                columnNumber: 34
+                                lineNumber: 449,
+                                columnNumber: 24
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 213,
-                        columnNumber: 17
+                        lineNumber: 445,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 211,
-                columnNumber: 13
+                lineNumber: 441,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "bg-white p-6 rounded-xl shadow-lg",
@@ -559,15 +560,15 @@ function DashboardView({ expedientes, onSelectExpediente, onCreateNew, isLoading
                         children: "Lista de Expedientes"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 218,
-                        columnNumber: 17
+                        lineNumber: 453,
+                        columnNumber: 9
                     }, this),
                     isLoading ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         children: "Cargando expedientes..."
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 220,
-                        columnNumber: 21
+                        lineNumber: 457,
+                        columnNumber: 11
                     }, this) : expedientes.length > 0 ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "space-y-3",
                         children: expedientes.map((exp)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -580,32 +581,33 @@ function DashboardView({ expedientes, onSelectExpediente, onCreateNew, isLoading
                                                 children: exp.nombre_completo
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 226,
-                                                columnNumber: 37
+                                                lineNumber: 466,
+                                                columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "text-sm text-gray-500",
                                                 children: [
-                                                    "Expediente Admin: ",
+                                                    "Expediente Admin:",
+                                                    " ",
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                         className: "font-mono",
                                                         children: exp.expediente_administrativo
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                        lineNumber: 227,
-                                                        columnNumber: 92
+                                                        lineNumber: 469,
+                                                        columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 227,
-                                                columnNumber: 37
+                                                lineNumber: 467,
+                                                columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 225,
-                                        columnNumber: 33
+                                        lineNumber: 465,
+                                        columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                         onClick: ()=>onSelectExpediente(exp),
@@ -614,25 +616,25 @@ function DashboardView({ expedientes, onSelectExpediente, onCreateNew, isLoading
                                             "Gestionar ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(IconArrowRight, {}, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 230,
-                                                columnNumber: 47
+                                                lineNumber: 478,
+                                                columnNumber: 29
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 229,
-                                        columnNumber: 33
+                                        lineNumber: 474,
+                                        columnNumber: 17
                                     }, this)
                                 ]
                             }, exp.id, true, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 224,
-                                columnNumber: 29
+                                lineNumber: 461,
+                                columnNumber: 15
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 222,
-                        columnNumber: 21
+                        lineNumber: 459,
+                        columnNumber: 11
                     }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "text-center py-10",
                         children: [
@@ -641,51 +643,51 @@ function DashboardView({ expedientes, onSelectExpediente, onCreateNew, isLoading
                                 children: "No hay expedientes registrados."
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 237,
-                                columnNumber: 25
+                                lineNumber: 485,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 className: "text-gray-500 mt-2",
                                 children: [
                                     "Para comenzar, haz clic en el botón de",
-                                    ' ',
+                                    " ",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                         className: "text-gray-600",
                                         children: "Crear Nuevo Expediente"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 240,
-                                        columnNumber: 29
+                                        lineNumber: 488,
+                                        columnNumber: 15
                                     }, this),
                                     "."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 238,
-                                columnNumber: 25
+                                lineNumber: 486,
+                                columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 236,
-                        columnNumber: 21
+                        lineNumber: 484,
+                        columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 217,
-                columnNumber: 13
+                lineNumber: 452,
+                columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 210,
-        columnNumber: 9
+        lineNumber: 440,
+        columnNumber: 5
     }, this);
 }
 function CaseView({ expediente, onSelectForm, onBack }) {
     const filledFormsIds = [
-        'form-entrevista-inicial'
+        "form-entrevista-inicial"
     ]; // Simulación
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         children: [
@@ -698,8 +700,8 @@ function CaseView({ expediente, onSelectForm, onBack }) {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(IconArrowLeft, {}, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 256,
-                                columnNumber: 21
+                                lineNumber: 515,
+                                columnNumber: 11
                             }, this),
                             " ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -707,14 +709,14 @@ function CaseView({ expediente, onSelectForm, onBack }) {
                                 children: "Volver al Dashboard"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 256,
-                                columnNumber: 39
+                                lineNumber: 515,
+                                columnNumber: 29
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 255,
-                        columnNumber: 17
+                        lineNumber: 511,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "bg-white p-4 rounded-lg shadow",
@@ -724,38 +726,39 @@ function CaseView({ expediente, onSelectForm, onBack }) {
                                 children: expediente.nombre_completo
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 259,
-                                columnNumber: 21
+                                lineNumber: 518,
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 className: "text-md text-gray-600",
                                 children: [
-                                    "Expediente Administrativo: ",
+                                    "Expediente Administrativo:",
+                                    " ",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         className: "font-mono",
                                         children: expediente.expediente_administrativo
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 260,
-                                        columnNumber: 85
+                                        lineNumber: 521,
+                                        columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 260,
-                                columnNumber: 21
+                                lineNumber: 519,
+                                columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 258,
-                        columnNumber: 17
+                        lineNumber: 517,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 254,
-                columnNumber: 13
+                lineNumber: 510,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "bg-white p-6 rounded-xl shadow-lg",
@@ -765,8 +768,8 @@ function CaseView({ expediente, onSelectForm, onBack }) {
                         children: "Formularios y Reportes Disponibles"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 264,
-                        columnNumber: 17
+                        lineNumber: 528,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5",
@@ -774,7 +777,7 @@ function CaseView({ expediente, onSelectForm, onBack }) {
                             const isDone = filledFormsIds.includes(form.id);
                             const Icon = form.icon;
                             return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: `border rounded-lg p-4 flex flex-col justify-between ${isDone ? 'bg-green-50' : ''}`,
+                                className: `border rounded-lg p-4 flex flex-col justify-between ${isDone ? "bg-green-50" : ""}`,
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "flex items-start mb-4",
@@ -783,62 +786,62 @@ function CaseView({ expediente, onSelectForm, onBack }) {
                                                 className: "text-2xl mr-4 text-gray-500 mt-1"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 272,
-                                                columnNumber: 37
+                                                lineNumber: 543,
+                                                columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                 className: "font-semibold text-lg",
                                                 children: form.title
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 273,
-                                                columnNumber: 37
+                                                lineNumber: 544,
+                                                columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 271,
-                                        columnNumber: 33
+                                        lineNumber: 542,
+                                        columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "text-right",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                             onClick: ()=>onSelectForm(form),
-                                            className: `${isDone ? 'bg-yellow-500 hover:bg-yellow-600' : 'bg-[#88cfe0] hover:bg-opacity-80'} text-black font-semibold text-sm py-2 px-4 rounded-lg transition`,
-                                            children: isDone ? 'Ver/Editar' : 'Llenar Formulario'
+                                            className: `${isDone ? "bg-yellow-500 hover:bg-yellow-600" : "bg-[#88cfe0] hover:bg-opacity-80"} text-black font-semibold text-sm py-2 px-4 rounded-lg transition`,
+                                            children: isDone ? "Ver/Editar" : "Llenar Formulario"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                            lineNumber: 276,
-                                            columnNumber: 37
+                                            lineNumber: 547,
+                                            columnNumber: 19
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 275,
-                                        columnNumber: 33
+                                        lineNumber: 546,
+                                        columnNumber: 17
                                     }, this)
                                 ]
                             }, form.id, true, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 270,
-                                columnNumber: 29
+                                lineNumber: 536,
+                                columnNumber: 15
                             }, this);
                         })
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 265,
-                        columnNumber: 17
+                        lineNumber: 531,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 263,
-                columnNumber: 13
+                lineNumber: 527,
+                columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 253,
-        columnNumber: 9
+        lineNumber: 509,
+        columnNumber: 5
     }, this);
 }
 // ===============================================================
@@ -863,8 +866,8 @@ function FormView({ formInfo, expediente, onSave, onBack }) {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(IconArrowLeft, {}, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 304,
-                                columnNumber: 21
+                                lineNumber: 595,
+                                columnNumber: 11
                             }, this),
                             " ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -872,22 +875,22 @@ function FormView({ formInfo, expediente, onSave, onBack }) {
                                 children: "Volver"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 304,
-                                columnNumber: 39
+                                lineNumber: 595,
+                                columnNumber: 29
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 303,
-                        columnNumber: 17
+                        lineNumber: 591,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                         className: "text-2xl font-bold",
                         children: formInfo.title
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 306,
-                        columnNumber: 17
+                        lineNumber: 597,
+                        columnNumber: 9
                     }, this),
                     expediente ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "text-md text-gray-600",
@@ -897,86 +900,86 @@ function FormView({ formInfo, expediente, onSave, onBack }) {
                                 children: expediente.nombre_completo
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 307,
-                                columnNumber: 74
+                                lineNumber: 600,
+                                columnNumber: 19
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 307,
-                        columnNumber: 31
+                        lineNumber: 599,
+                        columnNumber: 11
                     }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "text-md text-gray-600",
                         children: "Creando un nuevo expediente..."
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 307,
-                        columnNumber: 126
+                        lineNumber: 603,
+                        columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 302,
-                columnNumber: 13
+                lineNumber: 590,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
                 onSubmit: handleSubmit,
                 children: [
-                    formInfo.id === 'form-entrevista-inicial' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormularioEntrevistaInicial, {}, void 0, false, {
+                    formInfo.id === "form-entrevista-inicial" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormularioEntrevistaInicial, {}, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 311,
-                        columnNumber: 63
+                        lineNumber: 611,
+                        columnNumber: 11
                     }, this),
-                    formInfo.id === 'form-informe-inicial' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormularioInformeInicial, {
+                    formInfo.id === "form-informe-inicial" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormularioInformeInicial, {
                         expediente: expediente
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 312,
-                        columnNumber: 60
+                        lineNumber: 614,
+                        columnNumber: 11
                     }, this),
-                    formInfo.id === 'form-entrevista-seguimiento' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormularioEntrevistaSeguimiento, {
+                    formInfo.id === "form-entrevista-seguimiento" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormularioEntrevistaSeguimiento, {
                         expediente: expediente
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 313,
-                        columnNumber: 67
+                        lineNumber: 617,
+                        columnNumber: 11
                     }, this),
-                    formInfo.id === 'form-informe-seguimiento' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormularioInformeSeguimiento, {
+                    formInfo.id === "form-informe-seguimiento" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormularioInformeSeguimiento, {
                         expediente: expediente
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 314,
-                        columnNumber: 64
+                        lineNumber: 620,
+                        columnNumber: 11
                     }, this),
-                    formInfo.id === 'form-entrevista-cierre' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormularioEntrevistaCierre, {
+                    formInfo.id === "form-entrevista-cierre" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormularioEntrevistaCierre, {
                         expediente: expediente
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 315,
-                        columnNumber: 62
+                        lineNumber: 623,
+                        columnNumber: 11
                     }, this),
-                    formInfo.id === 'form-informe-cierre' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormularioInformeCierre, {
+                    formInfo.id === "form-informe-cierre" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormularioInformeCierre, {
                         expediente: expediente
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 316,
-                        columnNumber: 59
+                        lineNumber: 626,
+                        columnNumber: 11
                     }, this),
-                    formInfo.id === 'form-informe-especial' && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormularioInformeEspecial, {
+                    formInfo.id === "form-informe-especial" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormularioInformeEspecial, {
                         expediente: expediente
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 317,
-                        columnNumber: 61
+                        lineNumber: 629,
+                        columnNumber: 11
                     }, this),
                     ![
-                        'form-entrevista-inicial',
-                        'form-informe-inicial',
-                        'form-entrevista-seguimiento',
-                        'form-informe-seguimiento',
-                        'form-entrevista-cierre',
-                        'form-informe-cierre',
-                        'form-informe-especial'
+                        "form-entrevista-inicial",
+                        "form-informe-inicial",
+                        "form-entrevista-seguimiento",
+                        "form-informe-seguimiento",
+                        "form-entrevista-cierre",
+                        "form-informe-cierre",
+                        "form-informe-especial"
                     ].includes(formInfo.id) && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "text-center text-gray-500 mt-6",
                         children: [
@@ -986,8 +989,8 @@ function FormView({ formInfo, expediente, onSave, onBack }) {
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 327,
-                        columnNumber: 44
+                        lineNumber: 641,
+                        columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "mt-8 pt-5 border-t flex justify-end space-x-3",
@@ -999,8 +1002,8 @@ function FormView({ formInfo, expediente, onSave, onBack }) {
                                 children: "Cancelar"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 330,
-                                columnNumber: 21
+                                lineNumber: 647,
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                 type: "submit",
@@ -1008,26 +1011,26 @@ function FormView({ formInfo, expediente, onSave, onBack }) {
                                 children: "Guardar"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 331,
-                                columnNumber: 21
+                                lineNumber: 654,
+                                columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 329,
-                        columnNumber: 17
+                        lineNumber: 646,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 310,
-                columnNumber: 13
+                lineNumber: 609,
+                columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 301,
-        columnNumber: 9
+        lineNumber: 589,
+        columnNumber: 5
     }, this);
 }
 // ===============================================================
@@ -1038,10 +1041,10 @@ function FormularioEntrevistaInicial() {
     const [familiares, setFamiliares] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])([
         {
             id: 1,
-            parentesco: '',
-            edad: '',
-            escolaridad: '',
-            ocupacion: ''
+            parentesco: "",
+            edad: "",
+            escolaridad: "",
+            ocupacion: ""
         }
     ]);
     const addFamiliar = ()=>{
@@ -1049,10 +1052,10 @@ function FormularioEntrevistaInicial() {
             ...familiares,
             {
                 id: Date.now(),
-                parentesco: '',
-                edad: '',
-                escolaridad: '',
-                ocupacion: ''
+                parentesco: "",
+                edad: "",
+                escolaridad: "",
+                ocupacion: ""
             }
         ]);
     };
@@ -1077,16 +1080,16 @@ function FormularioEntrevistaInicial() {
                         required: true
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 360,
-                        columnNumber: 17
+                        lineNumber: 705,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "N° Expediente Administrativo",
                         name: "expediente_administrativo"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 361,
-                        columnNumber: 17
+                        lineNumber: 706,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Fecha de Evaluación",
@@ -1094,8 +1097,8 @@ function FormularioEntrevistaInicial() {
                         type: "date"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 362,
-                        columnNumber: 17
+                        lineNumber: 710,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Fecha de Nacimiento",
@@ -1103,20 +1106,20 @@ function FormularioEntrevistaInicial() {
                         type: "date"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 363,
-                        columnNumber: 17
+                        lineNumber: 715,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Select, {
                         label: "Sexo",
                         name: "sexo",
                         options: [
-                            'Masculino',
-                            'Femenino'
+                            "Masculino",
+                            "Femenino"
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 364,
-                        columnNumber: 17
+                        lineNumber: 720,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Edad",
@@ -1125,40 +1128,40 @@ function FormularioEntrevistaInicial() {
                         min: "0"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 365,
-                        columnNumber: 17
+                        lineNumber: 721,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Select, {
                         label: "Estado Familiar",
                         name: "estado_familiar",
                         options: [
-                            'Soltero',
-                            'Casado',
-                            'Acompañado'
+                            "Soltero",
+                            "Casado",
+                            "Acompañado"
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 366,
-                        columnNumber: 17
+                        lineNumber: 722,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "¿Tiene Hijos?",
                         name: "tiene_hijos",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ],
-                        onChange: (e)=>setTieneHijos(e.target.value === 'true')
+                        onChange: (e)=>setTieneHijos(e.target.value === "true")
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 367,
-                        columnNumber: 17
+                        lineNumber: 727,
+                        columnNumber: 9
                     }, this),
                     tieneHijos && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Número de Hijos",
@@ -1167,48 +1170,48 @@ function FormularioEntrevistaInicial() {
                         min: "0"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 368,
-                        columnNumber: 32
+                        lineNumber: 737,
+                        columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "N° Celular",
                         name: "celular"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 369,
-                        columnNumber: 17
+                        lineNumber: 744,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "DNI",
                         name: "dni"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 370,
-                        columnNumber: 17
+                        lineNumber: 745,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Nacionalidad",
                         name: "nacionalidad"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 371,
-                        columnNumber: 17
+                        lineNumber: 746,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Departamento",
                         name: "departamento"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 372,
-                        columnNumber: 17
+                        lineNumber: 747,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Municipio",
                         name: "municipio"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 373,
-                        columnNumber: 17
+                        lineNumber: 748,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Dirección Completa",
@@ -1216,50 +1219,50 @@ function FormularioEntrevistaInicial() {
                         rows: 3
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 374,
-                        columnNumber: 17
+                        lineNumber: 749,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Select, {
                         label: "Zona donde reside",
                         name: "zona_residencia",
                         options: [
-                            'Urbana',
-                            'Rural'
+                            "Urbana",
+                            "Rural"
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 375,
-                        columnNumber: 17
+                        lineNumber: 750,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Ocupación",
                         name: "ocupacion"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 376,
-                        columnNumber: 17
+                        lineNumber: 755,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Lugar de Trabajo",
                         name: "lugar_trabajo"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 377,
-                        columnNumber: 17
+                        lineNumber: 756,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Teléfono del Trabajo",
                         name: "telefono_trabajo"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 378,
-                        columnNumber: 17
+                        lineNumber: 757,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 359,
-                columnNumber: 13
+                lineNumber: 704,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Datos Judiciales",
@@ -1269,32 +1272,32 @@ function FormularioEntrevistaInicial() {
                         name: "juzgado_remite"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 382,
-                        columnNumber: 17
+                        lineNumber: 761,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Juez que remite",
                         name: "juez_remite"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 383,
-                        columnNumber: 17
+                        lineNumber: 762,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Tipo de infracción",
                         name: "tipo_infraccion"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 384,
-                        columnNumber: 17
+                        lineNumber: 763,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "N° expediente Judicial",
                         name: "expediente_judicial"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 385,
-                        columnNumber: 17
+                        lineNumber: 764,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Medida Socioeducativa Impuesta",
@@ -1302,24 +1305,24 @@ function FormularioEntrevistaInicial() {
                         rows: 2
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 386,
-                        columnNumber: 17
+                        lineNumber: 765,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Tiempo de la Medida",
                         name: "tiempo_medida_socioeducativa"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 387,
-                        columnNumber: 17
+                        lineNumber: 770,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Nombre del CPI que Egresó",
                         name: "cpi_egreso_nombre"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 388,
-                        columnNumber: 17
+                        lineNumber: 774,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Fecha de Ingreso al CPI",
@@ -1327,8 +1330,8 @@ function FormularioEntrevistaInicial() {
                         type: "date"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 389,
-                        columnNumber: 17
+                        lineNumber: 775,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "grid grid-cols-3 gap-4 md:col-span-2 lg:col-span-3",
@@ -1340,8 +1343,8 @@ function FormularioEntrevistaInicial() {
                                 min: "0"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 391,
-                                columnNumber: 21
+                                lineNumber: 781,
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                 label: "Tiempo en CPI (Meses)",
@@ -1350,8 +1353,8 @@ function FormularioEntrevistaInicial() {
                                 min: "0"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 392,
-                                columnNumber: 21
+                                lineNumber: 787,
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                 label: "Tiempo en CPI (Días)",
@@ -1360,14 +1363,14 @@ function FormularioEntrevistaInicial() {
                                 min: "0"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 393,
-                                columnNumber: 21
+                                lineNumber: 793,
+                                columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 390,
-                        columnNumber: 17
+                        lineNumber: 780,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Fecha de Egreso del CPI",
@@ -1375,14 +1378,14 @@ function FormularioEntrevistaInicial() {
                         type: "date"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 395,
-                        columnNumber: 17
+                        lineNumber: 800,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 381,
-                columnNumber: 13
+                lineNumber: 760,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Información del Representante Legal",
@@ -1392,56 +1395,56 @@ function FormularioEntrevistaInicial() {
                         name: "rep_legal_nombre"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 399,
-                        columnNumber: 17
+                        lineNumber: 808,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Parentesco",
                         name: "rep_legal_parentesco"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 400,
-                        columnNumber: 17
+                        lineNumber: 809,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "DNI del Representante",
                         name: "rep_legal_dni"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 401,
-                        columnNumber: 17
+                        lineNumber: 810,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Profesión / Oficio",
                         name: "rep_legal_profesion_oficio"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 402,
-                        columnNumber: 17
+                        lineNumber: 811,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Teléfono Celular",
                         name: "rep_legal_celular"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 403,
-                        columnNumber: 17
+                        lineNumber: 812,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Lugar de Trabajo",
                         name: "rep_legal_lugar_trabajo"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 404,
-                        columnNumber: 17
+                        lineNumber: 813,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Teléfono del Trabajo",
                         name: "rep_legal_telefono_trabajo"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 405,
-                        columnNumber: 17
+                        lineNumber: 814,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Otros teléfonos y Observaciones",
@@ -1449,14 +1452,14 @@ function FormularioEntrevistaInicial() {
                         rows: 3
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 406,
-                        columnNumber: 17
+                        lineNumber: 815,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 398,
-                columnNumber: 13
+                lineNumber: 807,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Educación Formal",
@@ -1466,8 +1469,8 @@ function FormularioEntrevistaInicial() {
                         name: "escolaridad"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 410,
-                        columnNumber: 17
+                        lineNumber: 823,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Año en que estudió el grado anterior",
@@ -1476,25 +1479,25 @@ function FormularioEntrevistaInicial() {
                         min: "0"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 411,
-                        columnNumber: 17
+                        lineNumber: 824,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(CheckboxGroup, {
                         label: "Habilidades básicas",
                         options: [
                             {
-                                label: 'Sabe leer y escribir',
-                                name: 'sabe_leer_escribir'
+                                label: "Sabe leer y escribir",
+                                name: "sabe_leer_escribir"
                             },
                             {
-                                label: 'Sabe operaciones matemáticas',
-                                name: 'sabe_operaciones_matematicas'
+                                label: "Sabe operaciones matemáticas",
+                                name: "sabe_operaciones_matematicas"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 412,
-                        columnNumber: 17
+                        lineNumber: 830,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Observaciones (Habilidades)",
@@ -1502,34 +1505,34 @@ function FormularioEntrevistaInicial() {
                         rows: 2
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 413,
-                        columnNumber: 17
+                        lineNumber: 840,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "¿Reprobó grados?",
                         name: "reprobo_grados",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 414,
-                        columnNumber: 17
+                        lineNumber: 845,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "¿Qué grados reprobó?",
                         name: "grados_reprobados"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 415,
-                        columnNumber: 17
+                        lineNumber: 853,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Motivo de la reprobación",
@@ -1537,34 +1540,34 @@ function FormularioEntrevistaInicial() {
                         rows: 2
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 416,
-                        columnNumber: 17
+                        lineNumber: 854,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "¿Desertó de algún grado?",
                         name: "deserto_grados",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 417,
-                        columnNumber: 17
+                        lineNumber: 859,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "¿Qué grados desertó?",
                         name: "grados_desertados"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 418,
-                        columnNumber: 17
+                        lineNumber: 867,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Motivo de la deserción",
@@ -1572,26 +1575,26 @@ function FormularioEntrevistaInicial() {
                         rows: 2
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 419,
-                        columnNumber: 17
+                        lineNumber: 868,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "¿Estudia Actualmente?",
                         name: "estudia_actualmente",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 420,
-                        columnNumber: 17
+                        lineNumber: 873,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Si no estudia, ¿por qué?",
@@ -1600,40 +1603,40 @@ function FormularioEntrevistaInicial() {
                         placeholder: "Falta de recursos económicos, Falta de ofertas académicas, Falta de motivación, Debe sostener su familia, Inseguridad en la zona, Otros..."
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 421,
-                        columnNumber: 17
+                        lineNumber: 881,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Grado que cursa",
                         name: "grado_cursa_actualmente"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 422,
-                        columnNumber: 17
+                        lineNumber: 887,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Sección",
                         name: "seccion"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 423,
-                        columnNumber: 17
+                        lineNumber: 888,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Jornada",
                         name: "jornada"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 424,
-                        columnNumber: 17
+                        lineNumber: 889,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Centro Educativo",
                         name: "centro_educativo_actual"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 425,
-                        columnNumber: 17
+                        lineNumber: 890,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Dirección del Centro Educativo",
@@ -1641,26 +1644,26 @@ function FormularioEntrevistaInicial() {
                         rows: 2
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 426,
-                        columnNumber: 17
+                        lineNumber: 891,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "¿Remitido a Orientación?",
                         name: "remitido_orientacion",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 427,
-                        columnNumber: 17
+                        lineNumber: 896,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Motivo de remisión",
@@ -1668,8 +1671,8 @@ function FormularioEntrevistaInicial() {
                         rows: 2
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 428,
-                        columnNumber: 17
+                        lineNumber: 904,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Modalidad de Media de Interés",
@@ -1678,16 +1681,16 @@ function FormularioEntrevistaInicial() {
                         placeholder: "BCH, BTP Contaduría, BTP Informática..."
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 429,
-                        columnNumber: 17
+                        lineNumber: 909,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Carrera Universitaria de Interés",
                         name: "interes_carrera_universitaria"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 430,
-                        columnNumber: 17
+                        lineNumber: 915,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Observaciones Generales (Educación Formal)",
@@ -1695,14 +1698,14 @@ function FormularioEntrevistaInicial() {
                         rows: 3
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 431,
-                        columnNumber: 17
+                        lineNumber: 919,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 409,
-                columnNumber: 13
+                lineNumber: 822,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Entorno Educativo",
@@ -1712,18 +1715,18 @@ function FormularioEntrevistaInicial() {
                         name: "entorno_hay_centro",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 435,
-                        columnNumber: 17
+                        lineNumber: 927,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Tipo de Programa Educativo",
@@ -1731,16 +1734,16 @@ function FormularioEntrevistaInicial() {
                         placeholder: "Ordinario, SEMED, Educatodos, Nocturna..."
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 436,
-                        columnNumber: 17
+                        lineNumber: 935,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Distancia/Tiempo de traslado",
                         name: "entorno_distancia"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 437,
-                        columnNumber: 17
+                        lineNumber: 940,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Medio de movilización",
@@ -1748,8 +1751,8 @@ function FormularioEntrevistaInicial() {
                         placeholder: "Caminando, Bus, Mototaxi..."
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 438,
-                        columnNumber: 17
+                        lineNumber: 941,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Observaciones (Entorno)",
@@ -1757,14 +1760,14 @@ function FormularioEntrevistaInicial() {
                         rows: 3
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 439,
-                        columnNumber: 17
+                        lineNumber: 946,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 434,
-                columnNumber: 13
+                lineNumber: 926,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Apoyo Educativo en el Hogar",
@@ -1774,40 +1777,40 @@ function FormularioEntrevistaInicial() {
                         name: "apoyo_hogar_dificultad_tarea"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 443,
-                        columnNumber: 17
+                        lineNumber: 954,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(ApoyoHogarInput, {
                         pregunta: "Los padres o responsable revisan si le dejaron tarea",
                         name: "apoyo_hogar_revisan_tarea"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 444,
-                        columnNumber: 17
+                        lineNumber: 958,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(ApoyoHogarInput, {
                         pregunta: "Los padres o responsable asisten periódicamente para supervisar su rendimiento escolar",
                         name: "apoyo_hogar_supervisan_rendimiento"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 445,
-                        columnNumber: 17
+                        lineNumber: 962,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(ApoyoHogarInput, {
                         pregunta: "Los padres o responsable asisten cuando se le hace una convocatoria en el centro educativo",
                         name: "apoyo_hogar_asisten_convocatoria"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 446,
-                        columnNumber: 17
+                        lineNumber: 966,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "¿Quién está más pendiente de sus estudios?",
                         name: "apoyo_hogar_quien_pendiente"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 447,
-                        columnNumber: 17
+                        lineNumber: 970,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Observaciones (Apoyo Hogar)",
@@ -1815,14 +1818,14 @@ function FormularioEntrevistaInicial() {
                         rows: 3
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 448,
-                        columnNumber: 17
+                        lineNumber: 974,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 442,
-                columnNumber: 13
+                lineNumber: 953,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Nivel Educativo en la Familia",
@@ -1836,12 +1839,12 @@ function FormularioEntrevistaInicial() {
                                         label: "Parentesco",
                                         name: `familiar_${index}_parentesco`,
                                         value: familiar.parentesco,
-                                        onChange: (e)=>handleFamiliarChange(familiar.id, 'parentesco', e.target.value),
+                                        onChange: (e)=>handleFamiliarChange(familiar.id, "parentesco", e.target.value),
                                         noBg: true
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 455,
-                                        columnNumber: 29
+                                        lineNumber: 988,
+                                        columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                         label: "Edad",
@@ -1849,34 +1852,34 @@ function FormularioEntrevistaInicial() {
                                         type: "number",
                                         min: "0",
                                         value: familiar.edad,
-                                        onChange: (e)=>handleFamiliarChange(familiar.id, 'edad', e.target.value),
+                                        onChange: (e)=>handleFamiliarChange(familiar.id, "edad", e.target.value),
                                         noBg: true
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 456,
-                                        columnNumber: 29
+                                        lineNumber: 1001,
+                                        columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                         label: "Escolaridad",
                                         name: `familiar_${index}_escolaridad`,
                                         value: familiar.escolaridad,
-                                        onChange: (e)=>handleFamiliarChange(familiar.id, 'escolaridad', e.target.value),
+                                        onChange: (e)=>handleFamiliarChange(familiar.id, "escolaridad", e.target.value),
                                         noBg: true
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 457,
-                                        columnNumber: 29
+                                        lineNumber: 1012,
+                                        columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                         label: "Ocupación",
                                         name: `familiar_${index}_ocupacion`,
                                         value: familiar.ocupacion,
-                                        onChange: (e)=>handleFamiliarChange(familiar.id, 'ocupacion', e.target.value),
+                                        onChange: (e)=>handleFamiliarChange(familiar.id, "ocupacion", e.target.value),
                                         noBg: true
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 458,
-                                        columnNumber: 29
+                                        lineNumber: 1025,
+                                        columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                         type: "button",
@@ -1884,19 +1887,19 @@ function FormularioEntrevistaInicial() {
                                         className: "bg-[#db473c] text-white p-2 rounded-md hover:bg-opacity-80 h-10 flex items-center justify-center",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(IconTrash, {}, void 0, false, {
                                             fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                            lineNumber: 460,
-                                            columnNumber: 33
+                                            lineNumber: 1039,
+                                            columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 459,
-                                        columnNumber: 29
+                                        lineNumber: 1034,
+                                        columnNumber: 15
                                     }, this)
                                 ]
                             }, familiar.id, true, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 454,
-                                columnNumber: 25
+                                lineNumber: 984,
+                                columnNumber: 13
                             }, this)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                             type: "button",
@@ -1905,19 +1908,19 @@ function FormularioEntrevistaInicial() {
                             children: "+ Añadir Familiar"
                         }, void 0, false, {
                             fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                            lineNumber: 464,
-                            columnNumber: 21
+                            lineNumber: 1043,
+                            columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                    lineNumber: 452,
-                    columnNumber: 17
+                    lineNumber: 982,
+                    columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 451,
-                columnNumber: 13
+                lineNumber: 981,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Educación No Formal",
@@ -1927,26 +1930,26 @@ function FormularioEntrevistaInicial() {
                         name: "oficio_sabe_alguno",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 471,
-                        columnNumber: 17
+                        lineNumber: 1054,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "¿Cuál?",
                         name: "oficio_cual"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 472,
-                        columnNumber: 17
+                        lineNumber: 1062,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "¿Cómo lo aprendió?",
@@ -1954,130 +1957,130 @@ function FormularioEntrevistaInicial() {
                         rows: 2
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 473,
-                        columnNumber: 17
+                        lineNumber: 1063,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "¿Ha trabajado de ese oficio?",
                         name: "oficio_ha_trabajado",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 474,
-                        columnNumber: 17
+                        lineNumber: 1068,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "¿Dónde?",
                         name: "oficio_donde_trabajo"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 475,
-                        columnNumber: 17
+                        lineNumber: 1076,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "¿Tiene certificados?",
                         name: "oficio_tiene_certificados",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 476,
-                        columnNumber: 17
+                        lineNumber: 1077,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "¿Le gustaría perfeccionar el oficio?",
                         name: "oficio_quiere_perfeccionar",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 477,
-                        columnNumber: 17
+                        lineNumber: 1085,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "¿Cómo?",
                         name: "oficio_como_perfeccionar"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 478,
-                        columnNumber: 17
+                        lineNumber: 1093,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "¿Le gustaría aprender un nuevo oficio?",
                         name: "oficio_quiere_aprender_nuevo",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 479,
-                        columnNumber: 17
+                        lineNumber: 1094,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "¿Cuál?",
                         name: "oficio_cual_nuevo"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 480,
-                        columnNumber: 17
+                        lineNumber: 1102,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "¿Ha participado en cursos antes?",
                         name: "oficio_participo_cursos_antes",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 481,
-                        columnNumber: 17
+                        lineNumber: 1103,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "¿Cuáles?",
                         name: "oficio_cuales_cursos_antes"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 482,
-                        columnNumber: 17
+                        lineNumber: 1111,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Talleres o Cursos en los que Participó en el CPI",
@@ -2085,60 +2088,60 @@ function FormularioEntrevistaInicial() {
                         rows: 2
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 483,
-                        columnNumber: 17
+                        lineNumber: 1112,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "¿Cuenta con diplomas del CPI?",
                         name: "oficio_tiene_diplomas_cpi",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                'value': 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 484,
-                        columnNumber: 17
+                        lineNumber: 1117,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "¿Cuáles?",
                         name: "oficio_cuales_diplomas_cpi"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 485,
-                        columnNumber: 17
+                        lineNumber: 1125,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "¿Le gustaría participar en un curso?",
                         name: "oficio_quiere_participar_curso",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 486,
-                        columnNumber: 17
+                        lineNumber: 1126,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "¿Cuál?",
                         name: "oficio_cual_curso_gustaria"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 487,
-                        columnNumber: 17
+                        lineNumber: 1134,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Observaciones (Educación No Formal)",
@@ -2146,14 +2149,14 @@ function FormularioEntrevistaInicial() {
                         rows: 3
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 488,
-                        columnNumber: 17
+                        lineNumber: 1135,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 470,
-                columnNumber: 13
+                lineNumber: 1053,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Habilidades y Destrezas",
@@ -2163,52 +2166,52 @@ function FormularioEntrevistaInicial() {
                         name: "talento_tiene",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 492,
-                        columnNumber: 17
+                        lineNumber: 1143,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "¿Cuál?",
                         name: "talento_cual"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 493,
-                        columnNumber: 17
+                        lineNumber: 1151,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "¿Ha trabajado de ese talento?",
                         name: "talento_ha_trabajado",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 494,
-                        columnNumber: 17
+                        lineNumber: 1152,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "¿Dónde?",
                         name: "talento_donde_trabajo"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 495,
-                        columnNumber: 17
+                        lineNumber: 1160,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "¿Cómo aprendió ese talento?",
@@ -2216,86 +2219,86 @@ function FormularioEntrevistaInicial() {
                         rows: 2
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 496,
-                        columnNumber: 17
+                        lineNumber: 1161,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "¿Le gustaría desarrollar más talentos?",
                         name: "talento_quiere_desarrolar",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 497,
-                        columnNumber: 17
+                        lineNumber: 1166,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "¿Cómo?",
                         name: "talento_como_desarrollar"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 498,
-                        columnNumber: 17
+                        lineNumber: 1174,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "¿Le gustaría perfeccionar sus talentos?",
                         name: "talento_quiere_perfeccionar",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 499,
-                        columnNumber: 17
+                        lineNumber: 1175,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "¿Cuál?",
                         name: "talento_cual_perfeccionar"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 500,
-                        columnNumber: 17
+                        lineNumber: 1183,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "¿Le gustaría trabajar de sus talentos?",
                         name: "talento_quiere_trabajar",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 501,
-                        columnNumber: 17
+                        lineNumber: 1184,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "¿Dónde?",
                         name: "talento_donde_trabajar"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 502,
-                        columnNumber: 17
+                        lineNumber: 1192,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Observaciones (Habilidades y Destrezas)",
@@ -2303,14 +2306,14 @@ function FormularioEntrevistaInicial() {
                         rows: 3
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 503,
-                        columnNumber: 17
+                        lineNumber: 1193,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 491,
-                columnNumber: 13
+                lineNumber: 1142,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Entorno Social",
@@ -2320,54 +2323,54 @@ function FormularioEntrevistaInicial() {
                         name: "entorno_social_amigos"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 507,
-                        columnNumber: 17
+                        lineNumber: 1201,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(EntornoSocialInput, {
                         pregunta: "¿Tiene novio(a)/Pareja?",
                         name: "entorno_social_pareja"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 508,
-                        columnNumber: 17
+                        lineNumber: 1205,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(EntornoSocialInput, {
                         pregunta: "¿Practica algún deporte?",
                         name: "entorno_social_deporte"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 509,
-                        columnNumber: 17
+                        lineNumber: 1209,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(EntornoSocialInput, {
                         pregunta: "¿Participa en grupo juvenil?",
                         name: "entorno_social_grupo_juvenil"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 510,
-                        columnNumber: 17
+                        lineNumber: 1213,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(EntornoSocialInput, {
                         pregunta: "¿Asiste a la iglesia?",
                         name: "entorno_social_iglesia"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 511,
-                        columnNumber: 17
+                        lineNumber: 1217,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(EntornoSocialInput, {
                         pregunta: "¿Tiene pasatiempos específicos?",
                         name: "entorno_social_pasatiempos"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 512,
-                        columnNumber: 17
+                        lineNumber: 1221,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 506,
-                columnNumber: 13
+                lineNumber: 1200,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Salud y Condición Física (Consumo de Sustancias)",
@@ -2377,18 +2380,18 @@ function FormularioEntrevistaInicial() {
                         name: "consumia_drogas_antes",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 516,
-                        columnNumber: 17
+                        lineNumber: 1228,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "¿A qué edad tuvo el primer contacto?",
@@ -2397,26 +2400,26 @@ function FormularioEntrevistaInicial() {
                         min: "0"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 517,
-                        columnNumber: 17
+                        lineNumber: 1236,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "¿Consume actualmente?",
                         name: "consume_drogas_actualmente",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 518,
-                        columnNumber: 17
+                        lineNumber: 1242,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "col-span-full mt-4",
@@ -2426,8 +2429,8 @@ function FormularioEntrevistaInicial() {
                                 children: "Marque las sustancias que consume y su frecuencia:"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 520,
-                                columnNumber: 21
+                                lineNumber: 1251,
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "grid grid-cols-2 md:grid-cols-3 gap-4",
@@ -2437,84 +2440,84 @@ function FormularioEntrevistaInicial() {
                                         name: "sustancia_alcohol"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 522,
-                                        columnNumber: 21
+                                        lineNumber: 1255,
+                                        columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(SustanciaInput, {
                                         nombre: "Tabaco",
                                         name: "sustancia_tabaco"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 523,
-                                        columnNumber: 21
+                                        lineNumber: 1256,
+                                        columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(SustanciaInput, {
                                         nombre: "Marihuana",
                                         name: "sustancia_marihuana"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 524,
-                                        columnNumber: 21
+                                        lineNumber: 1257,
+                                        columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(SustanciaInput, {
                                         nombre: "Cocaína",
                                         name: "sustancia_cocaina"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 525,
-                                        columnNumber: 21
+                                        lineNumber: 1258,
+                                        columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(SustanciaInput, {
                                         nombre: "Crack",
                                         name: "sustancia_crack"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 526,
-                                        columnNumber: 21
+                                        lineNumber: 1259,
+                                        columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(SustanciaInput, {
                                         nombre: "Heroína",
                                         name: "sustancia_heroina"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 527,
-                                        columnNumber: 21
+                                        lineNumber: 1260,
+                                        columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(SustanciaInput, {
                                         nombre: "Resistol",
                                         name: "sustancia_resistol"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 528,
-                                        columnNumber: 21
+                                        lineNumber: 1261,
+                                        columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(SustanciaInput, {
                                         nombre: "Tiner",
                                         name: "sustancia_tiner"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 529,
-                                        columnNumber: 21
+                                        lineNumber: 1262,
+                                        columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(SustanciaInput, {
                                         nombre: "Pastillas",
                                         name: "sustancia_pastillas"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 530,
-                                        columnNumber: 21
+                                        lineNumber: 1263,
+                                        columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 521,
-                                columnNumber: 21
+                                lineNumber: 1254,
+                                columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 519,
-                        columnNumber: 17
+                        lineNumber: 1250,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Observaciones (Salud)",
@@ -2522,14 +2525,14 @@ function FormularioEntrevistaInicial() {
                         rows: 3
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 533,
-                        columnNumber: 17
+                        lineNumber: 1266,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 515,
-                columnNumber: 13
+                lineNumber: 1227,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Diagnóstico y Cierre",
@@ -2540,8 +2543,8 @@ function FormularioEntrevistaInicial() {
                         rows: 4
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 537,
-                        columnNumber: 17
+                        lineNumber: 1274,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Pronóstico",
@@ -2549,8 +2552,8 @@ function FormularioEntrevistaInicial() {
                         rows: 4
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 538,
-                        columnNumber: 17
+                        lineNumber: 1279,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Recomendaciones",
@@ -2558,28 +2561,28 @@ function FormularioEntrevistaInicial() {
                         rows: 4
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 539,
-                        columnNumber: 17
+                        lineNumber: 1280,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Nombre del Pedagogo",
                         name: "nombre_pedagogo"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 540,
-                        columnNumber: 17
+                        lineNumber: 1281,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 536,
-                columnNumber: 13
+                lineNumber: 1273,
+                columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 358,
-        columnNumber: 9
+        lineNumber: 703,
+        columnNumber: 5
     }, this);
 }
 // ===============================================================
@@ -2597,94 +2600,94 @@ function FormularioInformeInicial({ expediente }) {
                         value: expediente?.nombre_completo
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 553,
-                        columnNumber: 17
+                        lineNumber: 1298,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Expediente Administrativo",
                         value: expediente?.expediente_administrativo
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 554,
-                        columnNumber: 17
+                        lineNumber: 1302,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Fecha de Nacimiento",
                         value: expediente?.fecha_nacimiento
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 555,
-                        columnNumber: 17
+                        lineNumber: 1306,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Sexo",
                         value: expediente?.sexo
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 556,
-                        columnNumber: 17
+                        lineNumber: 1310,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Edad",
                         value: expediente?.edad?.toString()
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 557,
-                        columnNumber: 17
+                        lineNumber: 1311,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Estado Familiar",
                         value: expediente?.estado_familiar
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 558,
-                        columnNumber: 17
+                        lineNumber: 1312,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Celular",
                         value: expediente?.celular
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 559,
-                        columnNumber: 17
+                        lineNumber: 1316,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "DNI",
                         value: expediente?.dni
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 560,
-                        columnNumber: 17
+                        lineNumber: 1317,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Ocupación",
                         value: expediente?.ocupacion
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 561,
-                        columnNumber: 17
+                        lineNumber: 1318,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Representante Legal",
                         value: expediente?.rep_legal_nombre
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 562,
-                        columnNumber: 17
+                        lineNumber: 1319,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Parentesco",
                         value: expediente?.rep_legal_parentesco
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 563,
-                        columnNumber: 17
+                        lineNumber: 1323,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 552,
-                columnNumber: 13
+                lineNumber: 1297,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Datos Judiciales (Referencia)",
@@ -2694,54 +2697,54 @@ function FormularioInformeInicial({ expediente }) {
                         value: expediente?.juzgado_remite
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 567,
-                        columnNumber: 17
+                        lineNumber: 1330,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Juez que remite",
                         value: expediente?.juez_remite
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 568,
-                        columnNumber: 17
+                        lineNumber: 1334,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Tipo de Infracción",
                         value: expediente?.tipo_infraccion
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 569,
-                        columnNumber: 17
+                        lineNumber: 1335,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Expediente Judicial",
                         value: expediente?.expediente_judicial
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 570,
-                        columnNumber: 17
+                        lineNumber: 1339,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Medida Socioeducativa",
                         value: expediente?.medida_socioeducativa_impuesta
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 571,
-                        columnNumber: 17
+                        lineNumber: 1343,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Tiempo de la Medida",
                         value: expediente?.tiempo_medida_socioeducativa
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 572,
-                        columnNumber: 17
+                        lineNumber: 1347,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 566,
-                columnNumber: 13
+                lineNumber: 1329,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Elaboración del Informe",
@@ -2751,13 +2754,13 @@ function FormularioInformeInicial({ expediente }) {
                     type: "date"
                 }, void 0, false, {
                     fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                    lineNumber: 576,
-                    columnNumber: 17
+                    lineNumber: 1354,
+                    columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 575,
-                columnNumber: 13
+                lineNumber: 1353,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Análisis y Conclusiones",
@@ -2768,8 +2771,8 @@ function FormularioInformeInicial({ expediente }) {
                         rows: 6
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 580,
-                        columnNumber: 17
+                        lineNumber: 1362,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "SITUACIÓN ÁREA DE EDUCACIÓN NO FORMAL",
@@ -2777,8 +2780,8 @@ function FormularioInformeInicial({ expediente }) {
                         rows: 6
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 581,
-                        columnNumber: 17
+                        lineNumber: 1367,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "SITUACIÓN EDUCATIVA FAMILIAR Y SOCIAL",
@@ -2786,8 +2789,8 @@ function FormularioInformeInicial({ expediente }) {
                         rows: 6
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 582,
-                        columnNumber: 17
+                        lineNumber: 1372,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "VALORACIÓN TÉCNICA",
@@ -2795,8 +2798,8 @@ function FormularioInformeInicial({ expediente }) {
                         rows: 6
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 583,
-                        columnNumber: 17
+                        lineNumber: 1377,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "PRONÓSTICO",
@@ -2804,8 +2807,8 @@ function FormularioInformeInicial({ expediente }) {
                         rows: 6
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 584,
-                        columnNumber: 17
+                        lineNumber: 1382,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "RECOMENDACIONES",
@@ -2813,14 +2816,14 @@ function FormularioInformeInicial({ expediente }) {
                         rows: 6
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 585,
-                        columnNumber: 17
+                        lineNumber: 1383,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 579,
-                columnNumber: 13
+                lineNumber: 1361,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Firma",
@@ -2829,19 +2832,19 @@ function FormularioInformeInicial({ expediente }) {
                     name: "nombre_pedagogo"
                 }, void 0, false, {
                     fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                    lineNumber: 589,
-                    columnNumber: 17
+                    lineNumber: 1387,
+                    columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 588,
-                columnNumber: 13
+                lineNumber: 1386,
+                columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 551,
-        columnNumber: 9
+        lineNumber: 1296,
+        columnNumber: 5
     }, this);
 }
 // ===============================================================
@@ -2862,32 +2865,32 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                         value: expediente?.nombre_completo
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 606,
-                        columnNumber: 17
+                        lineNumber: 1412,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Edad",
                         value: expediente?.edad?.toString()
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 607,
-                        columnNumber: 17
+                        lineNumber: 1416,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Expediente Administrativo",
                         value: expediente?.expediente_administrativo
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 608,
-                        columnNumber: 17
+                        lineNumber: 1417,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Expediente Judicial",
                         value: expediente?.expediente_judicial
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 609,
-                        columnNumber: 17
+                        lineNumber: 1421,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Fecha de Elaboración",
@@ -2895,14 +2898,14 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                         type: "date"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 610,
-                        columnNumber: 17
+                        lineNumber: 1425,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 605,
-                columnNumber: 13
+                lineNumber: 1411,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Avances en el Área de Educación Formal",
@@ -2915,19 +2918,19 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                 name: "asiste_centro_educativo",
                                 options: [
                                     {
-                                        label: 'Sí',
-                                        value: 'true'
+                                        label: "Sí",
+                                        value: "true"
                                     },
                                     {
-                                        label: 'No',
-                                        value: 'false'
+                                        label: "No",
+                                        value: "false"
                                     }
                                 ],
-                                onChange: (e)=>setAsisteCentroEducativo(e.target.value === 'true')
+                                onChange: (e)=>setAsisteCentroEducativo(e.target.value === "true")
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 615,
-                                columnNumber: 21
+                                lineNumber: 1434,
+                                columnNumber: 11
                             }, this),
                             asisteCentroEducativo === false && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "md:col-span-2",
@@ -2937,8 +2940,8 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                         children: "Observación / Si no Estudia:"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 623,
-                                        columnNumber: 29
+                                        lineNumber: 1447,
+                                        columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "mt-2 grid grid-cols-2 gap-x-4 gap-y-2",
@@ -2948,82 +2951,82 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                                 name: "motivo_no_estudia_rezago"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 625,
-                                                columnNumber: 33
+                                                lineNumber: 1451,
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                 label: "Desmotivación",
                                                 name: "motivo_no_estudia_desmotivacion"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 626,
-                                                columnNumber: 33
+                                                lineNumber: 1455,
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                 label: "Riesgo Social",
                                                 name: "motivo_no_estudia_riesgo"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 627,
-                                                columnNumber: 33
+                                                lineNumber: 1459,
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                 label: "Poca oferta educativa",
                                                 name: "motivo_no_estudia_oferta"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 628,
-                                                columnNumber: 33
+                                                lineNumber: 1463,
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                 label: "Prioridad al trabajo",
                                                 name: "motivo_no_estudia_trabajo"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 629,
-                                                columnNumber: 33
+                                                lineNumber: 1467,
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                 label: "Tiene familia",
                                                 name: "motivo_no_estudia_familia"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 630,
-                                                columnNumber: 33
+                                                lineNumber: 1471,
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                 label: "Problemas de Salud",
                                                 name: "motivo_no_estudia_salud"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 631,
-                                                columnNumber: 33
+                                                lineNumber: 1475,
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                 label: "Bajos Rec. Económicos",
                                                 name: "motivo_no_estudia_recursos"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 632,
-                                                columnNumber: 33
+                                                lineNumber: 1479,
+                                                columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 624,
-                                        columnNumber: 29
+                                        lineNumber: 1450,
+                                        columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 622,
-                                columnNumber: 25
+                                lineNumber: 1446,
+                                columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 614,
-                        columnNumber: 17
+                        lineNumber: 1433,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Observaciones (Educación Formal)",
@@ -3031,74 +3034,74 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                         rows: 4
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 637,
-                        columnNumber: 17
+                        lineNumber: 1487,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Nombre del Centro Educativo",
                         name: "nombre_centro_educativo"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 638,
-                        columnNumber: 17
+                        lineNumber: 1492,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Ubicación del Centro Educativo",
                         name: "ubicacion_centro_educativo"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 639,
-                        columnNumber: 17
+                        lineNumber: 1496,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Grado",
                         name: "grado"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 640,
-                        columnNumber: 17
+                        lineNumber: 1500,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Jornada",
                         name: "jornada"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 641,
-                        columnNumber: 17
+                        lineNumber: 1501,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Parcial",
                         name: "parcial"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 642,
-                        columnNumber: 17
+                        lineNumber: 1502,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Semestre",
                         name: "semestre"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 643,
-                        columnNumber: 17
+                        lineNumber: 1503,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                         label: "Presenta sus tareas y estudia a diario",
                         name: "presenta_tareas",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 644,
-                        columnNumber: 17
+                        lineNumber: 1504,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "md:col-span-3 grid grid-cols-1 md:grid-cols-2 gap-4",
@@ -3108,32 +3111,32 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                 name: "tiene_dificultad",
                                 options: [
                                     {
-                                        label: 'Sí',
-                                        value: 'true'
+                                        label: "Sí",
+                                        value: "true"
                                     },
                                     {
-                                        label: 'No',
-                                        value: 'false'
+                                        label: "No",
+                                        value: "false"
                                     }
                                 ]
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 646,
-                                columnNumber: 21
+                                lineNumber: 1513,
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                 label: "¿Cuál?",
                                 name: "dificultad_asignatura_cual"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 647,
-                                columnNumber: 21
+                                lineNumber: 1521,
+                                columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 645,
-                        columnNumber: 17
+                        lineNumber: 1512,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "md:col-span-3 grid grid-cols-1 md:grid-cols-2 gap-4",
@@ -3143,70 +3146,70 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                 name: "ha_reprobado",
                                 options: [
                                     {
-                                        label: 'Sí',
-                                        value: 'true'
+                                        label: "Sí",
+                                        value: "true"
                                     },
                                     {
-                                        label: 'No',
-                                        value: 'false'
+                                        label: "No",
+                                        value: "false"
                                     }
                                 ]
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 650,
-                                columnNumber: 21
+                                lineNumber: 1524,
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                 label: "¿Cuál?",
                                 name: "reprobado_asignatura_cual"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 651,
-                                columnNumber: 21
+                                lineNumber: 1532,
+                                columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 649,
-                        columnNumber: 17
+                        lineNumber: 1523,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Select, {
                         label: "Relación con los docentes y compañeros",
                         name: "relacion_docentes_companeros",
                         options: [
-                            'Muy Mala',
-                            'Mala',
-                            'Regular',
-                            'Buena',
-                            'Muy buena',
-                            'Excelente'
+                            "Muy Mala",
+                            "Mala",
+                            "Regular",
+                            "Buena",
+                            "Muy buena",
+                            "Excelente"
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 653,
-                        columnNumber: 17
+                        lineNumber: 1534,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Select, {
                         label: "Conducta del/la NNAJ en los últimos meses",
                         name: "conducta_ultimos_meses",
                         options: [
-                            'Muy Mala',
-                            'Mala',
-                            'Regular',
-                            'Buena',
-                            'Muy buena',
-                            'Excelente'
+                            "Muy Mala",
+                            "Mala",
+                            "Regular",
+                            "Buena",
+                            "Muy buena",
+                            "Excelente"
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 654,
-                        columnNumber: 17
+                        lineNumber: 1546,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 613,
-                columnNumber: 13
+                lineNumber: 1432,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Avances en el Área de Educación No Formal",
@@ -3219,48 +3222,48 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                 name: "participa_curso",
                                 options: [
                                     {
-                                        label: 'Sí',
-                                        value: 'true'
+                                        label: "Sí",
+                                        value: "true"
                                     },
                                     {
-                                        label: 'No',
-                                        value: 'false'
+                                        label: "No",
+                                        value: "false"
                                     }
                                 ]
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 659,
-                                columnNumber: 21
+                                lineNumber: 1562,
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                 label: "Curso en el que participa",
                                 name: "curso_participa_nombre"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 660,
-                                columnNumber: 21
+                                lineNumber: 1570,
+                                columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 658,
-                        columnNumber: 17
+                        lineNumber: 1561,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Nombre de la Institución",
                         name: "curso_institucion"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 662,
-                        columnNumber: 17
+                        lineNumber: 1575,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Duración del Curso",
                         name: "curso_duracion"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 663,
-                        columnNumber: 17
+                        lineNumber: 1576,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Fecha Inicial",
@@ -3268,8 +3271,8 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                         type: "date"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 664,
-                        columnNumber: 17
+                        lineNumber: 1577,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Fecha Final",
@@ -3277,8 +3280,8 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                         type: "date"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 665,
-                        columnNumber: 17
+                        lineNumber: 1578,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Horario que asiste",
@@ -3286,24 +3289,24 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                         placeholder: "Ej: L-V 8am-12pm"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 666,
-                        columnNumber: 17
+                        lineNumber: 1579,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Select, {
                         label: "Relación con el instructor y compañeros",
                         name: "relacion_instructor_companeros",
                         options: [
-                            'Muy Mala',
-                            'Mala',
-                            'Regular',
-                            'Buena',
-                            'Muy buena',
-                            'Excelente'
+                            "Muy Mala",
+                            "Mala",
+                            "Regular",
+                            "Buena",
+                            "Muy buena",
+                            "Excelente"
                         ]
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 667,
-                        columnNumber: 17
+                        lineNumber: 1584,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "¿Qué habilidades ha adquirido en el curso?",
@@ -3311,14 +3314,14 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                         rows: 3
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 668,
-                        columnNumber: 17
+                        lineNumber: 1596,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 657,
-                columnNumber: 13
+                lineNumber: 1560,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Avance en el Área Laboral",
@@ -3328,16 +3331,16 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                         name: "esta_laborando",
                         options: [
                             {
-                                label: 'Sí',
-                                value: 'true'
+                                label: "Sí",
+                                value: "true"
                             },
                             {
-                                label: 'No',
-                                value: 'false'
+                                label: "No",
+                                value: "false"
                             }
                         ],
                         onChange: (e)=>{
-                            const isWorking = e.target.value === 'true';
+                            const isWorking = e.target.value === "true";
                             setEstaLaborando(isWorking);
                             if (isWorking) {
                                 setLaboroAnteriormente(null); // Reset previous work state if currently working
@@ -3345,8 +3348,8 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                         }
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 672,
-                        columnNumber: 17
+                        lineNumber: 1604,
+                        columnNumber: 9
                     }, this),
                     estaLaborando && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Fragment"], {
                         children: [
@@ -3359,8 +3362,8 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                 ]
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 686,
-                                columnNumber: 25
+                                lineNumber: 1621,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                 label: "Cantidad que gana",
@@ -3369,8 +3372,8 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                 min: "0"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 687,
-                                columnNumber: 25
+                                lineNumber: 1626,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Select, {
                                 label: "Frecuencia de Pago",
@@ -3383,8 +3386,8 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                 ]
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 688,
-                                columnNumber: 25
+                                lineNumber: 1632,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "md:col-span-3 grid grid-cols-4 gap-2",
@@ -3396,8 +3399,8 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                         min: "0"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 690,
-                                        columnNumber: 29
+                                        lineNumber: 1638,
+                                        columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                         label: "Meses",
@@ -3406,8 +3409,8 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                         min: "0"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 691,
-                                        columnNumber: 29
+                                        lineNumber: 1644,
+                                        columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                         label: "Semanas",
@@ -3416,8 +3419,8 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                         min: "0"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 692,
-                                        columnNumber: 29
+                                        lineNumber: 1650,
+                                        columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                         label: "Días",
@@ -3426,80 +3429,80 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                         min: "0"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 693,
-                                        columnNumber: 29
+                                        lineNumber: 1656,
+                                        columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 689,
-                                columnNumber: 25
+                                lineNumber: 1637,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                 label: "Horario que tiene",
                                 name: "laboral_horario"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 695,
-                                columnNumber: 25
+                                lineNumber: 1663,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                 label: "Nombre de la empresa",
                                 name: "laboral_empresa"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 696,
-                                columnNumber: 25
+                                lineNumber: 1664,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                 label: "Cargo que desempeña",
                                 name: "laboral_cargo"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 697,
-                                columnNumber: 25
+                                lineNumber: 1665,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                 label: "Ubicación donde trabaja",
                                 name: "laboral_ubicacion"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 698,
-                                columnNumber: 25
+                                lineNumber: 1666,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                 label: "Nombre jefe inmediato",
                                 name: "laboral_jefe"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 699,
-                                columnNumber: 25
+                                lineNumber: 1667,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                 label: "N° de teléfono (Jefe)",
                                 name: "laboral_jefe_telefono"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 700,
-                                columnNumber: 25
+                                lineNumber: 1668,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(RadioGroup, {
                                 label: "¿En el trabajo, saben de su proceso Judicial actual?",
                                 name: "laboral_saben_proceso",
                                 options: [
                                     {
-                                        label: 'Sí',
-                                        value: 'true'
+                                        label: "Sí",
+                                        value: "true"
                                     },
                                     {
-                                        label: 'No',
-                                        value: 'false'
+                                        label: "No",
+                                        value: "false"
                                     }
                                 ]
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 701,
-                                columnNumber: 25
+                                lineNumber: 1669,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "md:col-span-3",
@@ -3509,8 +3512,8 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                         children: "¿Como Administra los ingresos devengados?"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 703,
-                                        columnNumber: 29
+                                        lineNumber: 1678,
+                                        columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "mt-2 grid grid-cols-2 md:grid-cols-3 gap-2",
@@ -3520,84 +3523,84 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                                 name: "admin_ingresos_hogar"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 705,
-                                                columnNumber: 33
+                                                lineNumber: 1682,
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                 label: "Gastos de Alimentación",
                                                 name: "admin_ingresos_alimentacion"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 706,
-                                                columnNumber: 33
+                                                lineNumber: 1683,
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                 label: "Gastos para higiene personal",
                                                 name: "admin_ingresos_higiene"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 707,
-                                                columnNumber: 33
+                                                lineNumber: 1687,
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                 label: "Gastos de transporte",
                                                 name: "admin_ingresos_transporte"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 708,
-                                                columnNumber: 33
+                                                lineNumber: 1691,
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                 label: "Pago de alquiler",
                                                 name: "admin_ingresos_alquiler"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 709,
-                                                columnNumber: 33
+                                                lineNumber: 1695,
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                 label: "Sustento de hijos/as",
                                                 name: "admin_ingresos_hijos"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 710,
-                                                columnNumber: 33
+                                                lineNumber: 1699,
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                 label: "Gastos para estudios",
                                                 name: "admin_ingresos_estudios"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 711,
-                                                columnNumber: 33
+                                                lineNumber: 1703,
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                 label: "Apoyo estudios hermanos/as",
                                                 name: "admin_ingresos_hermanos"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 712,
-                                                columnNumber: 33
+                                                lineNumber: 1707,
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                 label: "Medicamentos",
                                                 name: "admin_ingresos_medicamentos"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 713,
-                                                columnNumber: 33
+                                                lineNumber: 1711,
+                                                columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 704,
-                                        columnNumber: 29
+                                        lineNumber: 1681,
+                                        columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 702,
-                                columnNumber: 25
+                                lineNumber: 1677,
+                                columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true),
@@ -3609,19 +3612,19 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                 name: "laboro_anteriormente",
                                 options: [
                                     {
-                                        label: 'Sí',
-                                        value: 'true'
+                                        label: "Sí",
+                                        value: "true"
                                     },
                                     {
-                                        label: 'No',
-                                        value: 'false'
+                                        label: "No",
+                                        value: "false"
                                     }
                                 ],
-                                onChange: (e)=>setLaboroAnteriormente(e.target.value === 'true')
+                                onChange: (e)=>setLaboroAnteriormente(e.target.value === "true")
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 720,
-                                columnNumber: 25
+                                lineNumber: 1721,
+                                columnNumber: 13
                             }, this),
                             laboroAnteriormente && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "mt-4 space-y-5 grid grid-cols-1 md:grid-cols-2 gap-x-6 bg-gray-50 p-4 rounded-lg",
@@ -3631,16 +3634,16 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                         name: "anterior_empresa"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 728,
-                                        columnNumber: 33
+                                        lineNumber: 1734,
+                                        columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                                         label: "Cargo que desempeñó",
                                         name: "anterior_cargo"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 729,
-                                        columnNumber: 33
+                                        lineNumber: 1738,
+                                        columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "md:col-span-2",
@@ -3650,8 +3653,8 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                                 children: "Motivo por el cual dejó de laborar:"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 731,
-                                                columnNumber: 37
+                                                lineNumber: 1740,
+                                                columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 className: "mt-2 grid grid-cols-2 md:grid-cols-3 gap-2",
@@ -3661,110 +3664,110 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                                                         name: "motivo_fin_contrato"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                        lineNumber: 733,
-                                                        columnNumber: 41
+                                                        lineNumber: 1744,
+                                                        columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                         label: "Mejor oportunidad",
                                                         name: "motivo_mejor_oportunidad"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                        lineNumber: 734,
-                                                        columnNumber: 41
+                                                        lineNumber: 1748,
+                                                        columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                         label: "Dificultades en trabajo",
                                                         name: "motivo_dificultades"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                        lineNumber: 735,
-                                                        columnNumber: 41
+                                                        lineNumber: 1752,
+                                                        columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                         label: "Falta de Pago",
                                                         name: "motivo_falta_pago"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                        lineNumber: 736,
-                                                        columnNumber: 41
+                                                        lineNumber: 1756,
+                                                        columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                         label: "Problemas personales",
                                                         name: "motivo_problemas_personales"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                        lineNumber: 737,
-                                                        columnNumber: 41
+                                                        lineNumber: 1757,
+                                                        columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                         label: "Amenazas",
                                                         name: "motivo_amenazas"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                        lineNumber: 738,
-                                                        columnNumber: 41
+                                                        lineNumber: 1761,
+                                                        columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                         label: "Problemas de salud",
                                                         name: "motivo_problemas_salud"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                        lineNumber: 739,
-                                                        columnNumber: 41
+                                                        lineNumber: 1762,
+                                                        columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                         label: "Mala relación",
                                                         name: "motivo_mala_relacion"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                        lineNumber: 740,
-                                                        columnNumber: 41
+                                                        lineNumber: 1766,
+                                                        columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                         label: "Por estudios",
                                                         name: "motivo_por_estudios"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                        lineNumber: 741,
-                                                        columnNumber: 41
+                                                        lineNumber: 1770,
+                                                        columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Checkbox, {
                                                         label: "Desmotivación",
                                                         name: "motivo_desmotivacion"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                        lineNumber: 742,
-                                                        columnNumber: 41
+                                                        lineNumber: 1771,
+                                                        columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                                lineNumber: 732,
-                                                columnNumber: 37
+                                                lineNumber: 1743,
+                                                columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                        lineNumber: 730,
-                                        columnNumber: 33
+                                        lineNumber: 1739,
+                                        columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 727,
-                                columnNumber: 29
+                                lineNumber: 1733,
+                                columnNumber: 15
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 719,
-                        columnNumber: 21
+                        lineNumber: 1720,
+                        columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 671,
-                columnNumber: 13
+                lineNumber: 1603,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Cierre",
@@ -3775,8 +3778,8 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                         rows: 5
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 752,
-                        columnNumber: 17
+                        lineNumber: 1784,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Observaciones Generales",
@@ -3784,28 +3787,28 @@ function FormularioEntrevistaSeguimiento({ expediente }) {
                         rows: 5
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 753,
-                        columnNumber: 17
+                        lineNumber: 1789,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Nombre del Pedagogo",
                         name: "nombre_pedagogo"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 754,
-                        columnNumber: 17
+                        lineNumber: 1794,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 751,
-                columnNumber: 13
+                lineNumber: 1783,
+                columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 604,
-        columnNumber: 9
+        lineNumber: 1410,
+        columnNumber: 5
     }, this);
 }
 // ===============================================================
@@ -3823,38 +3826,38 @@ function FormularioInformeSeguimiento({ expediente }) {
                         value: expediente?.nombre_completo
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 767,
-                        columnNumber: 17
+                        lineNumber: 1811,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Edad",
                         value: expediente?.edad?.toString()
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 768,
-                        columnNumber: 17
+                        lineNumber: 1815,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Expediente Administrativo",
                         value: expediente?.expediente_administrativo
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 769,
-                        columnNumber: 17
+                        lineNumber: 1816,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Expediente Judicial",
                         value: expediente?.expediente_judicial
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 770,
-                        columnNumber: 17
+                        lineNumber: 1820,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 766,
-                columnNumber: 13
+                lineNumber: 1810,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Elaboración del Informe",
@@ -3864,13 +3867,13 @@ function FormularioInformeSeguimiento({ expediente }) {
                     type: "date"
                 }, void 0, false, {
                     fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                    lineNumber: 774,
-                    columnNumber: 17
+                    lineNumber: 1827,
+                    columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 773,
-                columnNumber: 13
+                lineNumber: 1826,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Análisis y Avances",
@@ -3881,8 +3884,8 @@ function FormularioInformeSeguimiento({ expediente }) {
                         rows: 5
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 778,
-                        columnNumber: 17
+                        lineNumber: 1835,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "AVANCES ÁREA DE EDUCACIÓN NO FORMAL",
@@ -3890,8 +3893,8 @@ function FormularioInformeSeguimiento({ expediente }) {
                         rows: 5
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 779,
-                        columnNumber: 17
+                        lineNumber: 1840,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "AVANCES ÁREA LABORAL",
@@ -3899,8 +3902,8 @@ function FormularioInformeSeguimiento({ expediente }) {
                         rows: 5
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 780,
-                        columnNumber: 17
+                        lineNumber: 1845,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "OBSTACULOS PRESENTADOS EN EL PROCESO",
@@ -3908,8 +3911,8 @@ function FormularioInformeSeguimiento({ expediente }) {
                         rows: 5
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 781,
-                        columnNumber: 17
+                        lineNumber: 1850,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "CONCLUSIONES",
@@ -3917,14 +3920,14 @@ function FormularioInformeSeguimiento({ expediente }) {
                         rows: 5
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 782,
-                        columnNumber: 17
+                        lineNumber: 1855,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 777,
-                columnNumber: 13
+                lineNumber: 1834,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Anexo: Verificación de Matrícula (SACE)",
@@ -3934,56 +3937,56 @@ function FormularioInformeSeguimiento({ expediente }) {
                         name: "sace_centro"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 786,
-                        columnNumber: 17
+                        lineNumber: 1859,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Periodo",
                         name: "sace_periodo"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 787,
-                        columnNumber: 17
+                        lineNumber: 1860,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Modalidad",
                         name: "sace_modalidad"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 788,
-                        columnNumber: 17
+                        lineNumber: 1861,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Grado",
                         name: "sace_grado"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 789,
-                        columnNumber: 17
+                        lineNumber: 1862,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Jornada",
                         name: "sace_jornada"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 790,
-                        columnNumber: 17
+                        lineNumber: 1863,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Sección",
                         name: "sace_seccion"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 791,
-                        columnNumber: 17
+                        lineNumber: 1864,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Estado",
                         name: "sace_estado"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 792,
-                        columnNumber: 17
+                        lineNumber: 1865,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Fecha de Verificación",
@@ -3991,8 +3994,8 @@ function FormularioInformeSeguimiento({ expediente }) {
                         type: "date"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 793,
-                        columnNumber: 17
+                        lineNumber: 1866,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Observaciones de Matrícula",
@@ -4000,8 +4003,8 @@ function FormularioInformeSeguimiento({ expediente }) {
                         rows: 4
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 794,
-                        columnNumber: 17
+                        lineNumber: 1871,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "md:col-span-3 bg-blue-50 p-4 rounded-lg border border-blue-200 text-sm text-gray-700",
@@ -4011,27 +4014,27 @@ function FormularioInformeSeguimiento({ expediente }) {
                                 children: "NOTA INFORMATIVA"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 796,
-                                columnNumber: 21
+                                lineNumber: 1877,
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "Mediante la verificación en el Sistema Administrativo de Centros Educativos (SACE), se constata la matrícula del joven. Este anexo no es un documento oficial, el cual solo puede ser emitido por la Secretaría de Educación. Los datos reflejados se encuentran en el SACE y se presentan para efectos de agilizar los informes de avances."
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 797,
-                                columnNumber: 21
+                                lineNumber: 1878,
+                                columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 795,
-                        columnNumber: 17
+                        lineNumber: 1876,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 785,
-                columnNumber: 13
+                lineNumber: 1858,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Firma",
@@ -4040,19 +4043,19 @@ function FormularioInformeSeguimiento({ expediente }) {
                     name: "nombre_pedagogo"
                 }, void 0, false, {
                     fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                    lineNumber: 806,
-                    columnNumber: 17
+                    lineNumber: 1890,
+                    columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 805,
-                columnNumber: 13
+                lineNumber: 1889,
+                columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 765,
-        columnNumber: 9
+        lineNumber: 1809,
+        columnNumber: 5
     }, this);
 }
 // ===============================================================
@@ -4070,16 +4073,16 @@ function FormularioEntrevistaCierre({ expediente }) {
                         value: expediente?.nombre_completo
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 819,
-                        columnNumber: 17
+                        lineNumber: 1907,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Expediente Administrativo",
                         value: expediente?.expediente_administrativo
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 820,
-                        columnNumber: 17
+                        lineNumber: 1911,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Fecha de Elaboración",
@@ -4087,14 +4090,14 @@ function FormularioEntrevistaCierre({ expediente }) {
                         type: "date"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 821,
-                        columnNumber: 17
+                        lineNumber: 1915,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 818,
-                columnNumber: 13
+                lineNumber: 1906,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Cierre del Proceso",
@@ -4105,8 +4108,8 @@ function FormularioEntrevistaCierre({ expediente }) {
                         rows: 6
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 824,
-                        columnNumber: 17
+                        lineNumber: 1922,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Situación actual del NNAJ (Educativa, Laboral, Familiar).",
@@ -4114,8 +4117,8 @@ function FormularioEntrevistaCierre({ expediente }) {
                         rows: 6
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 825,
-                        columnNumber: 17
+                        lineNumber: 1927,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "Recomendaciones finales.",
@@ -4123,14 +4126,14 @@ function FormularioEntrevistaCierre({ expediente }) {
                         rows: 6
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 826,
-                        columnNumber: 17
+                        lineNumber: 1932,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 823,
-                columnNumber: 13
+                lineNumber: 1921,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Firma",
@@ -4139,19 +4142,19 @@ function FormularioEntrevistaCierre({ expediente }) {
                     name: "nombre_pedagogo"
                 }, void 0, false, {
                     fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                    lineNumber: 829,
-                    columnNumber: 17
+                    lineNumber: 1939,
+                    columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 828,
-                columnNumber: 13
+                lineNumber: 1938,
+                columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 817,
-        columnNumber: 9
+        lineNumber: 1905,
+        columnNumber: 5
     }, this);
 }
 // ===============================================================
@@ -4169,38 +4172,38 @@ function FormularioInformeCierre({ expediente }) {
                         value: expediente?.nombre_completo
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 843,
-                        columnNumber: 17
+                        lineNumber: 1956,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Edad",
                         value: expediente?.edad?.toString()
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 844,
-                        columnNumber: 17
+                        lineNumber: 1960,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Expediente Administrativo",
                         value: expediente?.expediente_administrativo
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 845,
-                        columnNumber: 17
+                        lineNumber: 1961,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Expediente Judicial",
                         value: expediente?.expediente_judicial
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 846,
-                        columnNumber: 17
+                        lineNumber: 1965,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 842,
-                columnNumber: 13
+                lineNumber: 1955,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Elaboración del Informe",
@@ -4210,13 +4213,13 @@ function FormularioInformeCierre({ expediente }) {
                     type: "date"
                 }, void 0, false, {
                     fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                    lineNumber: 850,
-                    columnNumber: 17
+                    lineNumber: 1972,
+                    columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 849,
-                columnNumber: 13
+                lineNumber: 1971,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Logros y Valoración",
@@ -4227,8 +4230,8 @@ function FormularioInformeCierre({ expediente }) {
                         rows: 6
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 854,
-                        columnNumber: 17
+                        lineNumber: 1980,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "LOGROS OBTENIDOS EN EL ÁREA DE EDUCACIÓN NO FORMAL",
@@ -4236,8 +4239,8 @@ function FormularioInformeCierre({ expediente }) {
                         rows: 6
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 855,
-                        columnNumber: 17
+                        lineNumber: 1985,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "SITUACIÓN LABORAL ACTUAL",
@@ -4245,8 +4248,8 @@ function FormularioInformeCierre({ expediente }) {
                         rows: 6
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 856,
-                        columnNumber: 17
+                        lineNumber: 1990,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Textarea, {
                         label: "VALORACIÓN TÉCNICA",
@@ -4254,14 +4257,14 @@ function FormularioInformeCierre({ expediente }) {
                         rows: 6
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 857,
-                        columnNumber: 17
+                        lineNumber: 1995,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 853,
-                columnNumber: 13
+                lineNumber: 1979,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Firma",
@@ -4270,19 +4273,19 @@ function FormularioInformeCierre({ expediente }) {
                     name: "nombre_pedagogo"
                 }, void 0, false, {
                     fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                    lineNumber: 861,
-                    columnNumber: 17
+                    lineNumber: 2003,
+                    columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 860,
-                columnNumber: 13
+                lineNumber: 2002,
+                columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 841,
-        columnNumber: 9
+        lineNumber: 1954,
+        columnNumber: 5
     }, this);
 }
 // ===============================================================
@@ -4300,24 +4303,24 @@ function FormularioInformeEspecial({ expediente }) {
                         value: expediente?.nombre_completo
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 874,
-                        columnNumber: 17
+                        lineNumber: 2020,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Edad",
                         value: expediente?.edad?.toString()
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 875,
-                        columnNumber: 17
+                        lineNumber: 2024,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DisplayField, {
                         label: "Número de Expediente Administrativo",
                         value: expediente?.expediente_administrativo
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 876,
-                        columnNumber: 17
+                        lineNumber: 2025,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Fecha de Ingreso",
@@ -4325,8 +4328,8 @@ function FormularioInformeEspecial({ expediente }) {
                         type: "date"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 877,
-                        columnNumber: 17
+                        lineNumber: 2029,
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                         label: "Fecha de Elaboración",
@@ -4334,14 +4337,14 @@ function FormularioInformeEspecial({ expediente }) {
                         type: "date"
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 878,
-                        columnNumber: 17
+                        lineNumber: 2030,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 873,
-                columnNumber: 13
+                lineNumber: 2019,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Informe",
@@ -4351,13 +4354,13 @@ function FormularioInformeEspecial({ expediente }) {
                     rows: 10
                 }, void 0, false, {
                     fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                    lineNumber: 882,
-                    columnNumber: 17
+                    lineNumber: 2038,
+                    columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 881,
-                columnNumber: 13
+                lineNumber: 2037,
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FormSection, {
                 title: "Firma",
@@ -4366,19 +4369,19 @@ function FormularioInformeEspecial({ expediente }) {
                     name: "nombre_pedagogo"
                 }, void 0, false, {
                     fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                    lineNumber: 886,
-                    columnNumber: 17
+                    lineNumber: 2046,
+                    columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 885,
-                columnNumber: 13
+                lineNumber: 2045,
+                columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 872,
-        columnNumber: 9
+        lineNumber: 2018,
+        columnNumber: 5
     }, this);
 }
 // ===============================================================
@@ -4392,24 +4395,24 @@ const FormSection = ({ title, children })=>/*#__PURE__*/ (0, __TURBOPACK__import
                 children: title
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 898,
-                columnNumber: 9
+                lineNumber: 2060,
+                columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-5",
                 children: children
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 899,
-                columnNumber: 9
+                lineNumber: 2063,
+                columnNumber: 5
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 897,
-        columnNumber: 5
+        lineNumber: 2059,
+        columnNumber: 3
     }, this);
-const Input = ({ label, name, type = 'text', noBg = false, ...props })=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+const Input = ({ label, name, type = "text", noBg = false, ...props })=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                 htmlFor: name,
@@ -4417,25 +4420,25 @@ const Input = ({ label, name, type = 'text', noBg = false, ...props })=>/*#__PUR
                 children: label
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 907,
-                columnNumber: 9
+                lineNumber: 2076,
+                columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
                 type: type,
                 name: name,
                 id: name,
                 ...props,
-                className: `mt-1 block w-full rounded-lg border border-gray-400 px-3 py-2 shadow-sm focus:border-[#88cfe0] focus:ring focus:ring-[#88cfe0] focus:ring-opacity-50 sm:text-sm ${noBg ? 'bg-white' : 'bg-gray-100'}`
+                className: `mt-1 block w-full rounded-lg border border-gray-400 px-3 py-2 shadow-sm focus:border-[#88cfe0] focus:ring focus:ring-[#88cfe0] focus:ring-opacity-50 sm:text-sm ${noBg ? "bg-white" : "bg-gray-100"}`
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 908,
-                columnNumber: 9
+                lineNumber: 2082,
+                columnNumber: 5
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 906,
-        columnNumber: 5
+        lineNumber: 2075,
+        columnNumber: 3
     }, this);
 const Textarea = ({ label, name, ...props })=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "md:col-span-3",
@@ -4446,8 +4449,8 @@ const Textarea = ({ label, name, ...props })=>/*#__PURE__*/ (0, __TURBOPACK__imp
                 children: label
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 914,
-                columnNumber: 9
+                lineNumber: 2098,
+                columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
                 name: name,
@@ -4456,14 +4459,14 @@ const Textarea = ({ label, name, ...props })=>/*#__PURE__*/ (0, __TURBOPACK__imp
                 className: "mt-1 block w-full rounded-lg border border-gray-400 px-3 py-2 shadow-sm focus:border-[#88cfe0] focus:ring focus:ring-[#88cfe0] focus:ring-opacity-50 sm:text-sm bg-gray-100"
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 915,
-                columnNumber: 9
+                lineNumber: 2104,
+                columnNumber: 5
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 913,
-        columnNumber: 5
+        lineNumber: 2097,
+        columnNumber: 3
     }, this);
 const Select = ({ label, name, options, ...props })=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         children: [
@@ -4473,8 +4476,8 @@ const Select = ({ label, name, options, ...props })=>/*#__PURE__*/ (0, __TURBOPA
                 children: label
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 921,
-                columnNumber: 9
+                lineNumber: 2120,
+                columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
                 name: name,
@@ -4487,28 +4490,28 @@ const Select = ({ label, name, options, ...props })=>/*#__PURE__*/ (0, __TURBOPA
                         children: "Seleccione..."
                     }, void 0, false, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 923,
-                        columnNumber: 13
+                        lineNumber: 2132,
+                        columnNumber: 7
                     }, this),
                     options.map((opt)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
                             value: opt,
                             children: opt
                         }, opt, false, {
                             fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                            lineNumber: 924,
-                            columnNumber: 33
+                            lineNumber: 2134,
+                            columnNumber: 9
                         }, this))
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 922,
-                columnNumber: 9
+                lineNumber: 2126,
+                columnNumber: 5
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 920,
-        columnNumber: 5
+        lineNumber: 2119,
+        columnNumber: 3
     }, this);
 const RadioGroup = ({ label, name, options, ...props })=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "md:col-span-1",
@@ -4518,8 +4521,8 @@ const RadioGroup = ({ label, name, options, ...props })=>/*#__PURE__*/ (0, __TUR
                 children: label
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 931,
-                columnNumber: 9
+                lineNumber: 2149,
+                columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "mt-2 flex space-x-4",
@@ -4535,8 +4538,8 @@ const RadioGroup = ({ label, name, options, ...props })=>/*#__PURE__*/ (0, __TUR
                                 className: "focus:ring-blue-500 h-4 w-4 text-blue-600 border-gray-300"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 935,
-                                columnNumber: 21
+                                lineNumber: 2153,
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                                 htmlFor: `${name}-${opt.value}`,
@@ -4544,25 +4547,25 @@ const RadioGroup = ({ label, name, options, ...props })=>/*#__PURE__*/ (0, __TUR
                                 children: opt.label
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 936,
-                                columnNumber: 21
+                                lineNumber: 2161,
+                                columnNumber: 11
                             }, this)
                         ]
                     }, opt.value, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 934,
-                        columnNumber: 17
+                        lineNumber: 2152,
+                        columnNumber: 9
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 932,
-                columnNumber: 9
+                lineNumber: 2150,
+                columnNumber: 5
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 930,
-        columnNumber: 5
+        lineNumber: 2148,
+        columnNumber: 3
     }, this);
 const Checkbox = ({ label, name, ...props })=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "flex items-center",
@@ -4575,8 +4578,8 @@ const Checkbox = ({ label, name, ...props })=>/*#__PURE__*/ (0, __TURBOPACK__imp
                 className: "focus:ring-blue-500 h-4 w-4 text-blue-600 border-gray-300 rounded"
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 945,
-                columnNumber: 9
+                lineNumber: 2177,
+                columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                 htmlFor: name,
@@ -4584,14 +4587,14 @@ const Checkbox = ({ label, name, ...props })=>/*#__PURE__*/ (0, __TURBOPACK__imp
                 children: label
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 946,
-                columnNumber: 9
+                lineNumber: 2184,
+                columnNumber: 5
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 944,
-        columnNumber: 5
+        lineNumber: 2176,
+        columnNumber: 3
     }, this);
 const CheckboxGroup = ({ label, options })=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "md:col-span-1",
@@ -4601,8 +4604,8 @@ const CheckboxGroup = ({ label, options })=>/*#__PURE__*/ (0, __TURBOPACK__impor
                 children: label
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 952,
-                columnNumber: 9
+                lineNumber: 2195,
+                columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "mt-2 flex space-x-4",
@@ -4616,8 +4619,8 @@ const CheckboxGroup = ({ label, options })=>/*#__PURE__*/ (0, __TURBOPACK__impor
                                 className: "focus:ring-blue-500 h-4 w-4 text-blue-600 border-gray-300 rounded"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 956,
-                                columnNumber: 21
+                                lineNumber: 2199,
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                                 htmlFor: opt.name,
@@ -4625,25 +4628,25 @@ const CheckboxGroup = ({ label, options })=>/*#__PURE__*/ (0, __TURBOPACK__impor
                                 children: opt.label
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 957,
-                                columnNumber: 21
+                                lineNumber: 2205,
+                                columnNumber: 11
                             }, this)
                         ]
                     }, opt.name, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 955,
-                        columnNumber: 17
+                        lineNumber: 2198,
+                        columnNumber: 9
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 953,
-                columnNumber: 9
+                lineNumber: 2196,
+                columnNumber: 5
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 951,
-        columnNumber: 5
+        lineNumber: 2194,
+        columnNumber: 3
     }, this);
 const SustanciaInput = ({ nombre, name })=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "flex items-center space-x-2 border p-2 rounded-lg bg-gray-50",
@@ -4655,8 +4658,8 @@ const SustanciaInput = ({ nombre, name })=>/*#__PURE__*/ (0, __TURBOPACK__import
                 className: "h-4 w-4 text-blue-600 border-gray-300 rounded"
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 966,
-                columnNumber: 9
+                lineNumber: 2222,
+                columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                 htmlFor: name,
@@ -4664,8 +4667,8 @@ const SustanciaInput = ({ nombre, name })=>/*#__PURE__*/ (0, __TURBOPACK__import
                 children: nombre
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 967,
-                columnNumber: 9
+                lineNumber: 2228,
+                columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
                 type: "text",
@@ -4674,14 +4677,14 @@ const SustanciaInput = ({ nombre, name })=>/*#__PURE__*/ (0, __TURBOPACK__import
                 className: "block w-1/2 rounded-md border-gray-400 border focus:border-[#88cfe0] focus:ring focus:ring-[#88cfe0] focus:ring-opacity-50 sm:text-sm text-xs p-1 bg-gray-100"
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 968,
-                columnNumber: 9
+                lineNumber: 2231,
+                columnNumber: 5
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 965,
-        columnNumber: 5
+        lineNumber: 2221,
+        columnNumber: 3
     }, this);
 const ApoyoHogarInput = ({ pregunta, name })=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "md:col-span-3 border-t pt-4",
@@ -4691,8 +4694,8 @@ const ApoyoHogarInput = ({ pregunta, name })=>/*#__PURE__*/ (0, __TURBOPACK__imp
                 children: pregunta
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 974,
-                columnNumber: 9
+                lineNumber: 2245,
+                columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "mt-2 flex space-x-4",
@@ -4708,8 +4711,8 @@ const ApoyoHogarInput = ({ pregunta, name })=>/*#__PURE__*/ (0, __TURBOPACK__imp
                                 className: "focus:ring-blue-500 h-4 w-4 text-blue-600 border-gray-300"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 977,
-                                columnNumber: 17
+                                lineNumber: 2250,
+                                columnNumber: 9
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                                 htmlFor: `${name}-si`,
@@ -4717,14 +4720,14 @@ const ApoyoHogarInput = ({ pregunta, name })=>/*#__PURE__*/ (0, __TURBOPACK__imp
                                 children: "Sí"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 978,
-                                columnNumber: 17
+                                lineNumber: 2257,
+                                columnNumber: 9
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 976,
-                        columnNumber: 13
+                        lineNumber: 2249,
+                        columnNumber: 7
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "flex items-center",
@@ -4737,8 +4740,8 @@ const ApoyoHogarInput = ({ pregunta, name })=>/*#__PURE__*/ (0, __TURBOPACK__imp
                                 className: "focus:ring-blue-500 h-4 w-4 text-blue-600 border-gray-300"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 981,
-                                columnNumber: 17
+                                lineNumber: 2265,
+                                columnNumber: 9
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                                 htmlFor: `${name}-no`,
@@ -4746,14 +4749,14 @@ const ApoyoHogarInput = ({ pregunta, name })=>/*#__PURE__*/ (0, __TURBOPACK__imp
                                 children: "No"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 982,
-                                columnNumber: 17
+                                lineNumber: 2272,
+                                columnNumber: 9
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 980,
-                        columnNumber: 13
+                        lineNumber: 2264,
+                        columnNumber: 7
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "flex items-center",
@@ -4766,8 +4769,8 @@ const ApoyoHogarInput = ({ pregunta, name })=>/*#__PURE__*/ (0, __TURBOPACK__imp
                                 className: "focus:ring-blue-500 h-4 w-4 text-blue-600 border-gray-300"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 985,
-                                columnNumber: 17
+                                lineNumber: 2280,
+                                columnNumber: 9
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                                 htmlFor: `${name}-aveces`,
@@ -4775,26 +4778,26 @@ const ApoyoHogarInput = ({ pregunta, name })=>/*#__PURE__*/ (0, __TURBOPACK__imp
                                 children: "A veces"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 986,
-                                columnNumber: 17
+                                lineNumber: 2287,
+                                columnNumber: 9
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 984,
-                        columnNumber: 13
+                        lineNumber: 2279,
+                        columnNumber: 7
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 975,
-                columnNumber: 9
+                lineNumber: 2248,
+                columnNumber: 5
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 973,
-        columnNumber: 5
+        lineNumber: 2244,
+        columnNumber: 3
     }, this);
 const EntornoSocialInput = ({ pregunta, name })=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "md:col-span-3 grid grid-cols-3 gap-4 items-center border-t pt-4",
@@ -4804,8 +4807,8 @@ const EntornoSocialInput = ({ pregunta, name })=>/*#__PURE__*/ (0, __TURBOPACK__
                 children: pregunta
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 994,
-                columnNumber: 9
+                lineNumber: 2303,
+                columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "flex space-x-4 col-span-1",
@@ -4821,8 +4824,8 @@ const EntornoSocialInput = ({ pregunta, name })=>/*#__PURE__*/ (0, __TURBOPACK__
                                 className: "focus:ring-blue-500 h-4 w-4 text-blue-600 border-gray-300"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 997,
-                                columnNumber: 17
+                                lineNumber: 2308,
+                                columnNumber: 9
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                                 htmlFor: `${name}-si`,
@@ -4830,14 +4833,14 @@ const EntornoSocialInput = ({ pregunta, name })=>/*#__PURE__*/ (0, __TURBOPACK__
                                 children: "Sí"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 998,
-                                columnNumber: 17
+                                lineNumber: 2315,
+                                columnNumber: 9
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 996,
-                        columnNumber: 13
+                        lineNumber: 2307,
+                        columnNumber: 7
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "flex items-center",
@@ -4850,8 +4853,8 @@ const EntornoSocialInput = ({ pregunta, name })=>/*#__PURE__*/ (0, __TURBOPACK__
                                 className: "focus:ring-blue-500 h-4 w-4 text-blue-600 border-gray-300"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 1001,
-                                columnNumber: 17
+                                lineNumber: 2323,
+                                columnNumber: 9
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                                 htmlFor: `${name}-no`,
@@ -4859,20 +4862,20 @@ const EntornoSocialInput = ({ pregunta, name })=>/*#__PURE__*/ (0, __TURBOPACK__
                                 children: "No"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                                lineNumber: 1002,
-                                columnNumber: 17
+                                lineNumber: 2330,
+                                columnNumber: 9
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                        lineNumber: 1000,
-                        columnNumber: 13
+                        lineNumber: 2322,
+                        columnNumber: 7
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 995,
-                columnNumber: 9
+                lineNumber: 2306,
+                columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Input, {
                 label: "Tiempo que dedica",
@@ -4880,14 +4883,14 @@ const EntornoSocialInput = ({ pregunta, name })=>/*#__PURE__*/ (0, __TURBOPACK__
                 noBg: true
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 1005,
-                columnNumber: 9
+                lineNumber: 2338,
+                columnNumber: 5
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 993,
-        columnNumber: 5
+        lineNumber: 2302,
+        columnNumber: 3
     }, this);
 const DisplayField = ({ label, value })=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         children: [
@@ -4896,22 +4899,22 @@ const DisplayField = ({ label, value })=>/*#__PURE__*/ (0, __TURBOPACK__imported
                 children: label
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 1011,
-                columnNumber: 9
+                lineNumber: 2347,
+                columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                 className: "mt-1 block w-full rounded-lg border border-gray-200 px-3 py-2 bg-gray-50 text-gray-600 sm:text-sm",
-                children: value || 'No disponible'
+                children: value || "No disponible"
             }, void 0, false, {
                 fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-                lineNumber: 1012,
-                columnNumber: 9
+                lineNumber: 2348,
+                columnNumber: 5
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/dashboard/educacion/page.tsx",
-        lineNumber: 1010,
-        columnNumber: 5
+        lineNumber: 2346,
+        columnNumber: 3
     }, this);
 }}),
 
