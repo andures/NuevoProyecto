@@ -24,6 +24,7 @@ export default function Home() {
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
     // No validation, just redirect for now
+    // comentario nuevo
     router.push("/dashboard");
   };
 
